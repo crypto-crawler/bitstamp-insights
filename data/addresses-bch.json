@@ -37699,24 +37699,32 @@
     "date": "2021-11-28",
     "new": 50033,
     "active": 94699,
-    "zeroBalance": 35039,
+    "zeroBalance": 35056,
     "total": 347769594,
-    "totalZeroBalance": 328532199
+    "totalZeroBalance": 328532208
   },
   {
     "date": "2021-11-29",
     "new": 50475,
     "active": 89924,
-    "zeroBalance": 38000,
+    "zeroBalance": 38018,
     "total": 347820069,
-    "totalZeroBalance": 328567627
+    "totalZeroBalance": 328567636
   },
   {
     "date": "2021-11-30",
+    "new": 56334,
+    "active": 110985,
+    "zeroBalance": 43859,
+    "total": 347876403,
+    "totalZeroBalance": 328603279
+  },
+  {
+    "date": "2021-12-01",
     "new": 0,
     "active": 0,
     "zeroBalance": 0,
-    "total": 347820069,
-    "totalZeroBalance": 328567627
+    "total": 347876403,
+    "totalZeroBalance": 328603279
   }
 ]
