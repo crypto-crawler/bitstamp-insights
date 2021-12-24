@@ -37875,24 +37875,32 @@
     "date": "2021-12-20",
     "new": 37177,
     "active": 79686,
-    "zeroBalance": 24415,
+    "zeroBalance": 24400,
     "total": 348895761,
-    "totalZeroBalance": 329272887
+    "totalZeroBalance": 329272885
   },
   {
     "date": "2021-12-21",
     "new": 50239,
     "active": 116000,
-    "zeroBalance": 35323,
+    "zeroBalance": 35280,
     "total": 348946000,
-    "totalZeroBalance": 329299494
+    "totalZeroBalance": 329299490
   },
   {
     "date": "2021-12-22",
+    "new": 51213,
+    "active": 96810,
+    "zeroBalance": 32381,
+    "total": 348997213,
+    "totalZeroBalance": 329330268
+  },
+  {
+    "date": "2021-12-23",
     "new": 0,
     "active": 0,
     "zeroBalance": 0,
-    "total": 348946000,
-    "totalZeroBalance": 329299494
+    "total": 348997213,
+    "totalZeroBalance": 329330268
   }
 ]
