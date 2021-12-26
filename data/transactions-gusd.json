@@ -10802,10 +10802,10 @@
   {
     "date": "2021-12-22",
     "count": 697,
-    "totalVolume": 77057337.04,
-    "adjustedTotalVolume": 77057337.04,
-    "totalVolumeUSD": 76945603.90129201,
-    "adjustedTotalVolumeUSD": 76945603.90129201,
+    "totalVolume": 77057337.04000002,
+    "adjustedTotalVolume": 77057337.04000002,
+    "totalVolumeUSD": 76945603.90129203,
+    "adjustedTotalVolumeUSD": 76945603.90129203,
     "dailyPrice": 0.99855
   },
   {
@@ -10820,10 +10820,19 @@
   {
     "date": "2021-12-24",
     "count": 463,
-    "totalVolume": 41906912.71,
-    "adjustedTotalVolume": 41906912.71,
-    "totalVolumeUSD": 41877577.871102996,
-    "adjustedTotalVolumeUSD": 41877577.871102996,
+    "totalVolume": 41906912.71000002,
+    "adjustedTotalVolume": 41906912.71000002,
+    "totalVolumeUSD": 41877577.87110302,
+    "adjustedTotalVolumeUSD": 41877577.87110302,
     "dailyPrice": 0.9993
+  },
+  {
+    "date": "2021-12-25",
+    "count": 252,
+    "totalVolume": 7190022.550000002,
+    "adjustedTotalVolume": 7190022.550000002,
+    "totalVolumeUSD": 7185349.0353425015,
+    "adjustedTotalVolumeUSD": 7185349.0353425015,
+    "dailyPrice": 0.99935
   }
 ]
