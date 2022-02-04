@@ -4035,7 +4035,7 @@
     "date": "2022-01-31",
     "new": 273,
     "active": 836,
-    "zeroBalance": 250,
+    "zeroBalance": 251,
     "total": 1022231,
     "totalZeroBalance": 740535
   },
@@ -4043,7 +4043,7 @@
     "date": "2022-02-01",
     "new": 279,
     "active": 825,
-    "zeroBalance": 230,
+    "zeroBalance": 231,
     "total": 1022510,
     "totalZeroBalance": 740729
   },
@@ -4051,8 +4051,16 @@
     "date": "2022-02-02",
     "new": 272,
     "active": 760,
-    "zeroBalance": 187,
+    "zeroBalance": 188,
     "total": 1022782,
     "totalZeroBalance": 740887
+  },
+  {
+    "date": "2022-02-03",
+    "new": 368,
+    "active": 922,
+    "zeroBalance": 219,
+    "total": 1023150,
+    "totalZeroBalance": 741086
   }
 ]
