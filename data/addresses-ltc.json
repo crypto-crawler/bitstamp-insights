@@ -30707,7 +30707,7 @@
     "date": "2022-04-10",
     "new": 159153,
     "active": 299969,
-    "zeroBalance": 172892,
+    "zeroBalance": 172818,
     "total": 140706726,
     "totalZeroBalance": 135456557
   },
@@ -30715,7 +30715,7 @@
     "date": "2022-04-11",
     "new": 214921,
     "active": 365964,
-    "zeroBalance": 184217,
+    "zeroBalance": 184136,
     "total": 140921647,
     "totalZeroBalance": 135618623
   },
@@ -30723,16 +30723,24 @@
     "date": "2022-04-12",
     "new": 201923,
     "active": 347926,
-    "zeroBalance": 206931,
+    "zeroBalance": 206827,
     "total": 141123570,
     "totalZeroBalance": 135793584
   },
   {
     "date": "2022-04-13",
+    "new": 193744,
+    "active": 332173,
+    "zeroBalance": 197859,
+    "total": 141317314,
+    "totalZeroBalance": 135966882
+  },
+  {
+    "date": "2022-04-14",
     "new": 0,
     "active": 0,
     "zeroBalance": 0,
-    "total": 141123570,
-    "totalZeroBalance": 135793584
+    "total": 141317314,
+    "totalZeroBalance": 135966882
   }
 ]
