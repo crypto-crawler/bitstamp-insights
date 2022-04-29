@@ -1,0 +1,3506 @@
+[
+  {
+    "date": "2021-02-15",
+    "new": 5,
+    "active": 5,
+    "zeroBalance": 1,
+    "total": 5,
+    "totalZeroBalance": 1
+  },
+  {
+    "date": "2021-02-16",
+    "new": 13,
+    "active": 14,
+    "zeroBalance": 1,
+    "total": 18,
+    "totalZeroBalance": 2
+  },
+  {
+    "date": "2021-02-17",
+    "new": 2,
+    "active": 4,
+    "zeroBalance": 0,
+    "total": 20,
+    "totalZeroBalance": 2
+  },
+  {
+    "date": "2021-02-18",
+    "new": 14,
+    "active": 18,
+    "zeroBalance": 2,
+    "total": 34,
+    "totalZeroBalance": 5
+  },
+  {
+    "date": "2021-02-19",
+    "new": 13,
+    "active": 16,
+    "zeroBalance": 0,
+    "total": 47,
+    "totalZeroBalance": 5
+  },
+  {
+    "date": "2021-02-20",
+    "new": 114,
+    "active": 121,
+    "zeroBalance": 0,
+    "total": 161,
+    "totalZeroBalance": 5
+  },
+  {
+    "date": "2021-02-21",
+    "new": 8,
+    "active": 14,
+    "zeroBalance": 0,
+    "total": 169,
+    "totalZeroBalance": 6
+  },
+  {
+    "date": "2021-02-22",
+    "new": 7,
+    "active": 9,
+    "zeroBalance": 0,
+    "total": 176,
+    "totalZeroBalance": 7
+  },
+  {
+    "date": "2021-02-23",
+    "new": 0,
+    "active": 0,
+    "zeroBalance": 0,
+    "total": 176,
+    "totalZeroBalance": 7
+  },
+  {
+    "date": "2021-02-24",
+    "new": 23,
+    "active": 26,
+    "zeroBalance": 0,
+    "total": 199,
+    "totalZeroBalance": 7
+  },
+  {
+    "date": "2021-02-25",
+    "new": 521,
+    "active": 539,
+    "zeroBalance": 103,
+    "total": 720,
+    "totalZeroBalance": 117
+  },
+  {
+    "date": "2021-02-26",
+    "new": 771,
+    "active": 963,
+    "zeroBalance": 65,
+    "total": 1491,
+    "totalZeroBalance": 165
+  },
+  {
+    "date": "2021-02-27",
+    "new": 896,
+    "active": 1223,
+    "zeroBalance": 131,
+    "total": 2387,
+    "totalZeroBalance": 294
+  },
+  {
+    "date": "2021-02-28",
+    "new": 149,
+    "active": 336,
+    "zeroBalance": 100,
+    "total": 2536,
+    "totalZeroBalance": 387
+  },
+  {
+    "date": "2021-03-01",
+    "new": 220,
+    "active": 461,
+    "zeroBalance": 165,
+    "total": 2756,
+    "totalZeroBalance": 549
+  },
+  {
+    "date": "2021-03-02",
+    "new": 125,
+    "active": 324,
+    "zeroBalance": 116,
+    "total": 2881,
+    "totalZeroBalance": 655
+  },
+  {
+    "date": "2021-03-03",
+    "new": 87,
+    "active": 266,
+    "zeroBalance": 75,
+    "total": 2968,
+    "totalZeroBalance": 719
+  },
+  {
+    "date": "2021-03-04",
+    "new": 50,
+    "active": 183,
+    "zeroBalance": 57,
+    "total": 3018,
+    "totalZeroBalance": 775
+  },
+  {
+    "date": "2021-03-05",
+    "new": 38,
+    "active": 153,
+    "zeroBalance": 56,
+    "total": 3056,
+    "totalZeroBalance": 828
+  },
+  {
+    "date": "2021-03-06",
+    "new": 45,
+    "active": 194,
+    "zeroBalance": 82,
+    "total": 3101,
+    "totalZeroBalance": 905
+  },
+  {
+    "date": "2021-03-07",
+    "new": 27,
+    "active": 165,
+    "zeroBalance": 68,
+    "total": 3128,
+    "totalZeroBalance": 961
+  },
+  {
+    "date": "2021-03-08",
+    "new": 22,
+    "active": 153,
+    "zeroBalance": 62,
+    "total": 3150,
+    "totalZeroBalance": 1019
+  },
+  {
+    "date": "2021-03-09",
+    "new": 32,
+    "active": 144,
+    "zeroBalance": 40,
+    "total": 3182,
+    "totalZeroBalance": 1057
+  },
+  {
+    "date": "2021-03-10",
+    "new": 101,
+    "active": 245,
+    "zeroBalance": 43,
+    "total": 3283,
+    "totalZeroBalance": 1072
+  },
+  {
+    "date": "2021-03-11",
+    "new": 50,
+    "active": 168,
+    "zeroBalance": 39,
+    "total": 3333,
+    "totalZeroBalance": 1105
+  },
+  {
+    "date": "2021-03-12",
+    "new": 167,
+    "active": 352,
+    "zeroBalance": 51,
+    "total": 3500,
+    "totalZeroBalance": 1127
+  },
+  {
+    "date": "2021-03-13",
+    "new": 133,
+    "active": 268,
+    "zeroBalance": 54,
+    "total": 3633,
+    "totalZeroBalance": 1163
+  },
+  {
+    "date": "2021-03-14",
+    "new": 134,
+    "active": 307,
+    "zeroBalance": 67,
+    "total": 3767,
+    "totalZeroBalance": 1223
+  },
+  {
+    "date": "2021-03-15",
+    "new": 74,
+    "active": 234,
+    "zeroBalance": 67,
+    "total": 3841,
+    "totalZeroBalance": 1282
+  },
+  {
+    "date": "2021-03-16",
+    "new": 45,
+    "active": 166,
+    "zeroBalance": 59,
+    "total": 3886,
+    "totalZeroBalance": 1328
+  },
+  {
+    "date": "2021-03-17",
+    "new": 35,
+    "active": 240,
+    "zeroBalance": 123,
+    "total": 3921,
+    "totalZeroBalance": 1449
+  },
+  {
+    "date": "2021-03-18",
+    "new": 60,
+    "active": 167,
+    "zeroBalance": 42,
+    "total": 3981,
+    "totalZeroBalance": 1479
+  },
+  {
+    "date": "2021-03-19",
+    "new": 46,
+    "active": 170,
+    "zeroBalance": 61,
+    "total": 4027,
+    "totalZeroBalance": 1535
+  },
+  {
+    "date": "2021-03-20",
+    "new": 29,
+    "active": 115,
+    "zeroBalance": 33,
+    "total": 4056,
+    "totalZeroBalance": 1565
+  },
+  {
+    "date": "2021-03-21",
+    "new": 47,
+    "active": 185,
+    "zeroBalance": 46,
+    "total": 4103,
+    "totalZeroBalance": 1600
+  },
+  {
+    "date": "2021-03-22",
+    "new": 40,
+    "active": 149,
+    "zeroBalance": 40,
+    "total": 4143,
+    "totalZeroBalance": 1646
+  },
+  {
+    "date": "2021-03-23",
+    "new": 28,
+    "active": 127,
+    "zeroBalance": 35,
+    "total": 4171,
+    "totalZeroBalance": 1679
+  },
+  {
+    "date": "2021-03-24",
+    "new": 39,
+    "active": 133,
+    "zeroBalance": 29,
+    "total": 4210,
+    "totalZeroBalance": 1698
+  },
+  {
+    "date": "2021-03-25",
+    "new": 29,
+    "active": 127,
+    "zeroBalance": 29,
+    "total": 4239,
+    "totalZeroBalance": 1726
+  },
+  {
+    "date": "2021-03-26",
+    "new": 31,
+    "active": 120,
+    "zeroBalance": 25,
+    "total": 4270,
+    "totalZeroBalance": 1744
+  },
+  {
+    "date": "2021-03-27",
+    "new": 32,
+    "active": 114,
+    "zeroBalance": 34,
+    "total": 4302,
+    "totalZeroBalance": 1770
+  },
+  {
+    "date": "2021-03-28",
+    "new": 35,
+    "active": 95,
+    "zeroBalance": 20,
+    "total": 4337,
+    "totalZeroBalance": 1788
+  },
+  {
+    "date": "2021-03-29",
+    "new": 35,
+    "active": 119,
+    "zeroBalance": 25,
+    "total": 4372,
+    "totalZeroBalance": 1810
+  },
+  {
+    "date": "2021-03-30",
+    "new": 46,
+    "active": 118,
+    "zeroBalance": 24,
+    "total": 4418,
+    "totalZeroBalance": 1825
+  },
+  {
+    "date": "2021-03-31",
+    "new": 19,
+    "active": 77,
+    "zeroBalance": 25,
+    "total": 4437,
+    "totalZeroBalance": 1848
+  },
+  {
+    "date": "2021-04-01",
+    "new": 27,
+    "active": 110,
+    "zeroBalance": 30,
+    "total": 4464,
+    "totalZeroBalance": 1875
+  },
+  {
+    "date": "2021-04-02",
+    "new": 28,
+    "active": 94,
+    "zeroBalance": 19,
+    "total": 4492,
+    "totalZeroBalance": 1889
+  },
+  {
+    "date": "2021-04-03",
+    "new": 34,
+    "active": 108,
+    "zeroBalance": 23,
+    "total": 4526,
+    "totalZeroBalance": 1914
+  },
+  {
+    "date": "2021-04-04",
+    "new": 31,
+    "active": 106,
+    "zeroBalance": 28,
+    "total": 4557,
+    "totalZeroBalance": 1937
+  },
+  {
+    "date": "2021-04-05",
+    "new": 33,
+    "active": 92,
+    "zeroBalance": 17,
+    "total": 4590,
+    "totalZeroBalance": 1949
+  },
+  {
+    "date": "2021-04-06",
+    "new": 64,
+    "active": 147,
+    "zeroBalance": 35,
+    "total": 4654,
+    "totalZeroBalance": 1981
+  },
+  {
+    "date": "2021-04-07",
+    "new": 140,
+    "active": 280,
+    "zeroBalance": 71,
+    "total": 4794,
+    "totalZeroBalance": 2040
+  },
+  {
+    "date": "2021-04-08",
+    "new": 185,
+    "active": 440,
+    "zeroBalance": 118,
+    "total": 4979,
+    "totalZeroBalance": 2139
+  },
+  {
+    "date": "2021-04-09",
+    "new": 79,
+    "active": 204,
+    "zeroBalance": 42,
+    "total": 5058,
+    "totalZeroBalance": 2166
+  },
+  {
+    "date": "2021-04-10",
+    "new": 31,
+    "active": 98,
+    "zeroBalance": 18,
+    "total": 5089,
+    "totalZeroBalance": 2188
+  },
+  {
+    "date": "2021-04-11",
+    "new": 19,
+    "active": 73,
+    "zeroBalance": 19,
+    "total": 5108,
+    "totalZeroBalance": 2206
+  },
+  {
+    "date": "2021-04-12",
+    "new": 81,
+    "active": 179,
+    "zeroBalance": 37,
+    "total": 5189,
+    "totalZeroBalance": 2235
+  },
+  {
+    "date": "2021-04-13",
+    "new": 94,
+    "active": 206,
+    "zeroBalance": 35,
+    "total": 5283,
+    "totalZeroBalance": 2275
+  },
+  {
+    "date": "2021-04-14",
+    "new": 949,
+    "active": 1113,
+    "zeroBalance": 65,
+    "total": 6232,
+    "totalZeroBalance": 2330
+  },
+  {
+    "date": "2021-04-15",
+    "new": 541,
+    "active": 736,
+    "zeroBalance": 62,
+    "total": 6773,
+    "totalZeroBalance": 2376
+  },
+  {
+    "date": "2021-04-16",
+    "new": 278,
+    "active": 457,
+    "zeroBalance": 47,
+    "total": 7051,
+    "totalZeroBalance": 2420
+  },
+  {
+    "date": "2021-04-17",
+    "new": 197,
+    "active": 342,
+    "zeroBalance": 54,
+    "total": 7248,
+    "totalZeroBalance": 2485
+  },
+  {
+    "date": "2021-04-18",
+    "new": 182,
+    "active": 367,
+    "zeroBalance": 59,
+    "total": 7430,
+    "totalZeroBalance": 2553
+  },
+  {
+    "date": "2021-04-19",
+    "new": 130,
+    "active": 267,
+    "zeroBalance": 43,
+    "total": 7560,
+    "totalZeroBalance": 2597
+  },
+  {
+    "date": "2021-04-20",
+    "new": 70,
+    "active": 201,
+    "zeroBalance": 55,
+    "total": 7630,
+    "totalZeroBalance": 2656
+  },
+  {
+    "date": "2021-04-21",
+    "new": 79,
+    "active": 213,
+    "zeroBalance": 42,
+    "total": 7709,
+    "totalZeroBalance": 2703
+  },
+  {
+    "date": "2021-04-22",
+    "new": 84,
+    "active": 229,
+    "zeroBalance": 71,
+    "total": 7793,
+    "totalZeroBalance": 2779
+  },
+  {
+    "date": "2021-04-23",
+    "new": 92,
+    "active": 263,
+    "zeroBalance": 64,
+    "total": 7885,
+    "totalZeroBalance": 2849
+  },
+  {
+    "date": "2021-04-24",
+    "new": 112,
+    "active": 245,
+    "zeroBalance": 50,
+    "total": 7997,
+    "totalZeroBalance": 2894
+  },
+  {
+    "date": "2021-04-25",
+    "new": 205,
+    "active": 344,
+    "zeroBalance": 34,
+    "total": 8202,
+    "totalZeroBalance": 2931
+  },
+  {
+    "date": "2021-04-26",
+    "new": 222,
+    "active": 414,
+    "zeroBalance": 43,
+    "total": 8424,
+    "totalZeroBalance": 2947
+  },
+  {
+    "date": "2021-04-27",
+    "new": 163,
+    "active": 328,
+    "zeroBalance": 54,
+    "total": 8587,
+    "totalZeroBalance": 3005
+  },
+  {
+    "date": "2021-04-28",
+    "new": 121,
+    "active": 280,
+    "zeroBalance": 46,
+    "total": 8708,
+    "totalZeroBalance": 3043
+  },
+  {
+    "date": "2021-04-29",
+    "new": 119,
+    "active": 247,
+    "zeroBalance": 38,
+    "total": 8827,
+    "totalZeroBalance": 3083
+  },
+  {
+    "date": "2021-04-30",
+    "new": 99,
+    "active": 263,
+    "zeroBalance": 45,
+    "total": 8926,
+    "totalZeroBalance": 3129
+  },
+  {
+    "date": "2021-05-01",
+    "new": 77,
+    "active": 201,
+    "zeroBalance": 45,
+    "total": 9003,
+    "totalZeroBalance": 3178
+  },
+  {
+    "date": "2021-05-02",
+    "new": 54,
+    "active": 186,
+    "zeroBalance": 58,
+    "total": 9057,
+    "totalZeroBalance": 3243
+  },
+  {
+    "date": "2021-05-03",
+    "new": 49,
+    "active": 160,
+    "zeroBalance": 44,
+    "total": 9106,
+    "totalZeroBalance": 3291
+  },
+  {
+    "date": "2021-05-04",
+    "new": 49,
+    "active": 171,
+    "zeroBalance": 49,
+    "total": 9155,
+    "totalZeroBalance": 3358
+  },
+  {
+    "date": "2021-05-05",
+    "new": 42,
+    "active": 149,
+    "zeroBalance": 52,
+    "total": 9197,
+    "totalZeroBalance": 3412
+  },
+  {
+    "date": "2021-05-06",
+    "new": 43,
+    "active": 171,
+    "zeroBalance": 41,
+    "total": 9240,
+    "totalZeroBalance": 3459
+  },
+  {
+    "date": "2021-05-07",
+    "new": 29,
+    "active": 142,
+    "zeroBalance": 40,
+    "total": 9269,
+    "totalZeroBalance": 3508
+  },
+  {
+    "date": "2021-05-08",
+    "new": 18,
+    "active": 121,
+    "zeroBalance": 37,
+    "total": 9287,
+    "totalZeroBalance": 3552
+  },
+  {
+    "date": "2021-05-09",
+    "new": 12,
+    "active": 94,
+    "zeroBalance": 40,
+    "total": 9299,
+    "totalZeroBalance": 3594
+  },
+  {
+    "date": "2021-05-10",
+    "new": 13,
+    "active": 93,
+    "zeroBalance": 30,
+    "total": 9312,
+    "totalZeroBalance": 3635
+  },
+  {
+    "date": "2021-05-11",
+    "new": 15,
+    "active": 68,
+    "zeroBalance": 18,
+    "total": 9327,
+    "totalZeroBalance": 3659
+  },
+  {
+    "date": "2021-05-12",
+    "new": 12,
+    "active": 69,
+    "zeroBalance": 13,
+    "total": 9339,
+    "totalZeroBalance": 3681
+  },
+  {
+    "date": "2021-05-13",
+    "new": 24,
+    "active": 119,
+    "zeroBalance": 33,
+    "total": 9363,
+    "totalZeroBalance": 3718
+  },
+  {
+    "date": "2021-05-14",
+    "new": 15,
+    "active": 94,
+    "zeroBalance": 26,
+    "total": 9378,
+    "totalZeroBalance": 3746
+  },
+  {
+    "date": "2021-05-15",
+    "new": 22,
+    "active": 85,
+    "zeroBalance": 30,
+    "total": 9400,
+    "totalZeroBalance": 3780
+  },
+  {
+    "date": "2021-05-16",
+    "new": 20,
+    "active": 141,
+    "zeroBalance": 56,
+    "total": 9420,
+    "totalZeroBalance": 3845
+  },
+  {
+    "date": "2021-05-17",
+    "new": 19,
+    "active": 216,
+    "zeroBalance": 117,
+    "total": 9439,
+    "totalZeroBalance": 3980
+  },
+  {
+    "date": "2021-05-18",
+    "new": 23,
+    "active": 271,
+    "zeroBalance": 145,
+    "total": 9462,
+    "totalZeroBalance": 4149
+  },
+  {
+    "date": "2021-05-19",
+    "new": 19,
+    "active": 132,
+    "zeroBalance": 42,
+    "total": 9481,
+    "totalZeroBalance": 4186
+  },
+  {
+    "date": "2021-05-20",
+    "new": 25,
+    "active": 169,
+    "zeroBalance": 52,
+    "total": 9506,
+    "totalZeroBalance": 4230
+  },
+  {
+    "date": "2021-05-21",
+    "new": 17,
+    "active": 129,
+    "zeroBalance": 44,
+    "total": 9523,
+    "totalZeroBalance": 4279
+  },
+  {
+    "date": "2021-05-22",
+    "new": 19,
+    "active": 140,
+    "zeroBalance": 51,
+    "total": 9542,
+    "totalZeroBalance": 4327
+  },
+  {
+    "date": "2021-05-23",
+    "new": 11,
+    "active": 108,
+    "zeroBalance": 40,
+    "total": 9553,
+    "totalZeroBalance": 4372
+  },
+  {
+    "date": "2021-05-24",
+    "new": 24,
+    "active": 120,
+    "zeroBalance": 25,
+    "total": 9577,
+    "totalZeroBalance": 4400
+  },
+  {
+    "date": "2021-05-25",
+    "new": 17,
+    "active": 128,
+    "zeroBalance": 33,
+    "total": 9594,
+    "totalZeroBalance": 4420
+  },
+  {
+    "date": "2021-05-26",
+    "new": 19,
+    "active": 84,
+    "zeroBalance": 16,
+    "total": 9613,
+    "totalZeroBalance": 4433
+  },
+  {
+    "date": "2021-05-27",
+    "new": 12,
+    "active": 77,
+    "zeroBalance": 18,
+    "total": 9625,
+    "totalZeroBalance": 4452
+  },
+  {
+    "date": "2021-05-28",
+    "new": 13,
+    "active": 63,
+    "zeroBalance": 16,
+    "total": 9638,
+    "totalZeroBalance": 4470
+  },
+  {
+    "date": "2021-05-29",
+    "new": 14,
+    "active": 60,
+    "zeroBalance": 19,
+    "total": 9652,
+    "totalZeroBalance": 4494
+  },
+  {
+    "date": "2021-05-30",
+    "new": 5,
+    "active": 53,
+    "zeroBalance": 10,
+    "total": 9657,
+    "totalZeroBalance": 4500
+  },
+  {
+    "date": "2021-05-31",
+    "new": 13,
+    "active": 66,
+    "zeroBalance": 23,
+    "total": 9670,
+    "totalZeroBalance": 4520
+  },
+  {
+    "date": "2021-06-01",
+    "new": 6,
+    "active": 65,
+    "zeroBalance": 13,
+    "total": 9676,
+    "totalZeroBalance": 4541
+  },
+  {
+    "date": "2021-06-02",
+    "new": 8,
+    "active": 55,
+    "zeroBalance": 19,
+    "total": 9684,
+    "totalZeroBalance": 4562
+  },
+  {
+    "date": "2021-06-03",
+    "new": 14,
+    "active": 65,
+    "zeroBalance": 16,
+    "total": 9698,
+    "totalZeroBalance": 4581
+  },
+  {
+    "date": "2021-06-04",
+    "new": 6,
+    "active": 37,
+    "zeroBalance": 13,
+    "total": 9704,
+    "totalZeroBalance": 4595
+  },
+  {
+    "date": "2021-06-05",
+    "new": 6,
+    "active": 43,
+    "zeroBalance": 15,
+    "total": 9710,
+    "totalZeroBalance": 4609
+  },
+  {
+    "date": "2021-06-06",
+    "new": 13,
+    "active": 55,
+    "zeroBalance": 16,
+    "total": 9723,
+    "totalZeroBalance": 4619
+  },
+  {
+    "date": "2021-06-07",
+    "new": 11,
+    "active": 62,
+    "zeroBalance": 20,
+    "total": 9734,
+    "totalZeroBalance": 4644
+  },
+  {
+    "date": "2021-06-08",
+    "new": 4,
+    "active": 44,
+    "zeroBalance": 13,
+    "total": 9738,
+    "totalZeroBalance": 4664
+  },
+  {
+    "date": "2021-06-09",
+    "new": 6,
+    "active": 51,
+    "zeroBalance": 13,
+    "total": 9744,
+    "totalZeroBalance": 4676
+  },
+  {
+    "date": "2021-06-10",
+    "new": 7,
+    "active": 33,
+    "zeroBalance": 12,
+    "total": 9751,
+    "totalZeroBalance": 4688
+  },
+  {
+    "date": "2021-06-11",
+    "new": 4,
+    "active": 42,
+    "zeroBalance": 12,
+    "total": 9755,
+    "totalZeroBalance": 4697
+  },
+  {
+    "date": "2021-06-12",
+    "new": 4,
+    "active": 34,
+    "zeroBalance": 7,
+    "total": 9759,
+    "totalZeroBalance": 4704
+  },
+  {
+    "date": "2021-06-13",
+    "new": 11,
+    "active": 56,
+    "zeroBalance": 13,
+    "total": 9770,
+    "totalZeroBalance": 4718
+  },
+  {
+    "date": "2021-06-14",
+    "new": 8,
+    "active": 42,
+    "zeroBalance": 13,
+    "total": 9778,
+    "totalZeroBalance": 4732
+  },
+  {
+    "date": "2021-06-15",
+    "new": 8,
+    "active": 49,
+    "zeroBalance": 14,
+    "total": 9786,
+    "totalZeroBalance": 4744
+  },
+  {
+    "date": "2021-06-16",
+    "new": 9,
+    "active": 47,
+    "zeroBalance": 13,
+    "total": 9795,
+    "totalZeroBalance": 4757
+  },
+  {
+    "date": "2021-06-17",
+    "new": 6,
+    "active": 33,
+    "zeroBalance": 9,
+    "total": 9801,
+    "totalZeroBalance": 4765
+  },
+  {
+    "date": "2021-06-18",
+    "new": 8,
+    "active": 69,
+    "zeroBalance": 19,
+    "total": 9809,
+    "totalZeroBalance": 4783
+  },
+  {
+    "date": "2021-06-19",
+    "new": 5,
+    "active": 57,
+    "zeroBalance": 19,
+    "total": 9814,
+    "totalZeroBalance": 4795
+  },
+  {
+    "date": "2021-06-20",
+    "new": 4,
+    "active": 30,
+    "zeroBalance": 6,
+    "total": 9818,
+    "totalZeroBalance": 4805
+  },
+  {
+    "date": "2021-06-21",
+    "new": 4,
+    "active": 53,
+    "zeroBalance": 14,
+    "total": 9822,
+    "totalZeroBalance": 4822
+  },
+  {
+    "date": "2021-06-22",
+    "new": 14,
+    "active": 75,
+    "zeroBalance": 24,
+    "total": 9836,
+    "totalZeroBalance": 4849
+  },
+  {
+    "date": "2021-06-23",
+    "new": 12,
+    "active": 50,
+    "zeroBalance": 13,
+    "total": 9848,
+    "totalZeroBalance": 4860
+  },
+  {
+    "date": "2021-06-24",
+    "new": 5,
+    "active": 37,
+    "zeroBalance": 9,
+    "total": 9853,
+    "totalZeroBalance": 4869
+  },
+  {
+    "date": "2021-06-25",
+    "new": 16,
+    "active": 43,
+    "zeroBalance": 18,
+    "total": 9869,
+    "totalZeroBalance": 4883
+  },
+  {
+    "date": "2021-06-26",
+    "new": 5,
+    "active": 34,
+    "zeroBalance": 7,
+    "total": 9874,
+    "totalZeroBalance": 4888
+  },
+  {
+    "date": "2021-06-27",
+    "new": 6,
+    "active": 30,
+    "zeroBalance": 7,
+    "total": 9880,
+    "totalZeroBalance": 4898
+  },
+  {
+    "date": "2021-06-28",
+    "new": 3,
+    "active": 43,
+    "zeroBalance": 7,
+    "total": 9883,
+    "totalZeroBalance": 4905
+  },
+  {
+    "date": "2021-06-29",
+    "new": 15,
+    "active": 53,
+    "zeroBalance": 14,
+    "total": 9898,
+    "totalZeroBalance": 4917
+  },
+  {
+    "date": "2021-06-30",
+    "new": 7,
+    "active": 34,
+    "zeroBalance": 7,
+    "total": 9905,
+    "totalZeroBalance": 4922
+  },
+  {
+    "date": "2021-07-01",
+    "new": 9,
+    "active": 41,
+    "zeroBalance": 10,
+    "total": 9914,
+    "totalZeroBalance": 4930
+  },
+  {
+    "date": "2021-07-02",
+    "new": 11,
+    "active": 39,
+    "zeroBalance": 13,
+    "total": 9925,
+    "totalZeroBalance": 4937
+  },
+  {
+    "date": "2021-07-03",
+    "new": 5,
+    "active": 26,
+    "zeroBalance": 3,
+    "total": 9930,
+    "totalZeroBalance": 4938
+  },
+  {
+    "date": "2021-07-04",
+    "new": 9,
+    "active": 29,
+    "zeroBalance": 8,
+    "total": 9939,
+    "totalZeroBalance": 4944
+  },
+  {
+    "date": "2021-07-05",
+    "new": 2,
+    "active": 38,
+    "zeroBalance": 8,
+    "total": 9941,
+    "totalZeroBalance": 4953
+  },
+  {
+    "date": "2021-07-06",
+    "new": 4,
+    "active": 35,
+    "zeroBalance": 9,
+    "total": 9945,
+    "totalZeroBalance": 4957
+  },
+  {
+    "date": "2021-07-07",
+    "new": 7,
+    "active": 47,
+    "zeroBalance": 8,
+    "total": 9952,
+    "totalZeroBalance": 4963
+  },
+  {
+    "date": "2021-07-08",
+    "new": 5,
+    "active": 36,
+    "zeroBalance": 10,
+    "total": 9957,
+    "totalZeroBalance": 4973
+  },
+  {
+    "date": "2021-07-09",
+    "new": 9,
+    "active": 50,
+    "zeroBalance": 19,
+    "total": 9966,
+    "totalZeroBalance": 4979
+  },
+  {
+    "date": "2021-07-10",
+    "new": 9,
+    "active": 54,
+    "zeroBalance": 15,
+    "total": 9975,
+    "totalZeroBalance": 4993
+  },
+  {
+    "date": "2021-07-11",
+    "new": 4,
+    "active": 18,
+    "zeroBalance": 1,
+    "total": 9979,
+    "totalZeroBalance": 4994
+  },
+  {
+    "date": "2021-07-12",
+    "new": 7,
+    "active": 34,
+    "zeroBalance": 7,
+    "total": 9986,
+    "totalZeroBalance": 5002
+  },
+  {
+    "date": "2021-07-13",
+    "new": 2,
+    "active": 24,
+    "zeroBalance": 10,
+    "total": 9988,
+    "totalZeroBalance": 5011
+  },
+  {
+    "date": "2021-07-14",
+    "new": 2,
+    "active": 22,
+    "zeroBalance": 4,
+    "total": 9990,
+    "totalZeroBalance": 5015
+  },
+  {
+    "date": "2021-07-15",
+    "new": 2,
+    "active": 29,
+    "zeroBalance": 4,
+    "total": 9992,
+    "totalZeroBalance": 5019
+  },
+  {
+    "date": "2021-07-16",
+    "new": 19,
+    "active": 52,
+    "zeroBalance": 21,
+    "total": 10011,
+    "totalZeroBalance": 5035
+  },
+  {
+    "date": "2021-07-17",
+    "new": 10,
+    "active": 37,
+    "zeroBalance": 6,
+    "total": 10021,
+    "totalZeroBalance": 5039
+  },
+  {
+    "date": "2021-07-18",
+    "new": 6,
+    "active": 28,
+    "zeroBalance": 6,
+    "total": 10027,
+    "totalZeroBalance": 5042
+  },
+  {
+    "date": "2021-07-19",
+    "new": 6,
+    "active": 33,
+    "zeroBalance": 10,
+    "total": 10033,
+    "totalZeroBalance": 5051
+  },
+  {
+    "date": "2021-07-20",
+    "new": 13,
+    "active": 52,
+    "zeroBalance": 7,
+    "total": 10046,
+    "totalZeroBalance": 5057
+  },
+  {
+    "date": "2021-07-21",
+    "new": 6,
+    "active": 41,
+    "zeroBalance": 10,
+    "total": 10052,
+    "totalZeroBalance": 5056
+  },
+  {
+    "date": "2021-07-22",
+    "new": 12,
+    "active": 57,
+    "zeroBalance": 12,
+    "total": 10064,
+    "totalZeroBalance": 5063
+  },
+  {
+    "date": "2021-07-23",
+    "new": 4,
+    "active": 55,
+    "zeroBalance": 16,
+    "total": 10068,
+    "totalZeroBalance": 5070
+  },
+  {
+    "date": "2021-07-24",
+    "new": 7,
+    "active": 38,
+    "zeroBalance": 8,
+    "total": 10075,
+    "totalZeroBalance": 5075
+  },
+  {
+    "date": "2021-07-25",
+    "new": 6,
+    "active": 41,
+    "zeroBalance": 11,
+    "total": 10081,
+    "totalZeroBalance": 5083
+  },
+  {
+    "date": "2021-07-26",
+    "new": 10,
+    "active": 63,
+    "zeroBalance": 13,
+    "total": 10091,
+    "totalZeroBalance": 5092
+  },
+  {
+    "date": "2021-07-27",
+    "new": 5,
+    "active": 44,
+    "zeroBalance": 13,
+    "total": 10096,
+    "totalZeroBalance": 5100
+  },
+  {
+    "date": "2021-07-28",
+    "new": 7,
+    "active": 37,
+    "zeroBalance": 8,
+    "total": 10103,
+    "totalZeroBalance": 5107
+  },
+  {
+    "date": "2021-07-29",
+    "new": 4,
+    "active": 26,
+    "zeroBalance": 5,
+    "total": 10107,
+    "totalZeroBalance": 5114
+  },
+  {
+    "date": "2021-07-30",
+    "new": 48,
+    "active": 142,
+    "zeroBalance": 37,
+    "total": 10155,
+    "totalZeroBalance": 5125
+  },
+  {
+    "date": "2021-07-31",
+    "new": 20,
+    "active": 97,
+    "zeroBalance": 23,
+    "total": 10175,
+    "totalZeroBalance": 5133
+  },
+  {
+    "date": "2021-08-01",
+    "new": 19,
+    "active": 71,
+    "zeroBalance": 12,
+    "total": 10194,
+    "totalZeroBalance": 5139
+  },
+  {
+    "date": "2021-08-02",
+    "new": 12,
+    "active": 56,
+    "zeroBalance": 19,
+    "total": 10206,
+    "totalZeroBalance": 5155
+  },
+  {
+    "date": "2021-08-03",
+    "new": 10,
+    "active": 66,
+    "zeroBalance": 17,
+    "total": 10216,
+    "totalZeroBalance": 5172
+  },
+  {
+    "date": "2021-08-04",
+    "new": 21,
+    "active": 85,
+    "zeroBalance": 14,
+    "total": 10237,
+    "totalZeroBalance": 5179
+  },
+  {
+    "date": "2021-08-05",
+    "new": 45,
+    "active": 110,
+    "zeroBalance": 19,
+    "total": 10282,
+    "totalZeroBalance": 5187
+  },
+  {
+    "date": "2021-08-06",
+    "new": 52,
+    "active": 109,
+    "zeroBalance": 18,
+    "total": 10334,
+    "totalZeroBalance": 5206
+  },
+  {
+    "date": "2021-08-07",
+    "new": 29,
+    "active": 78,
+    "zeroBalance": 17,
+    "total": 10363,
+    "totalZeroBalance": 5223
+  },
+  {
+    "date": "2021-08-08",
+    "new": 49,
+    "active": 109,
+    "zeroBalance": 17,
+    "total": 10412,
+    "totalZeroBalance": 5237
+  },
+  {
+    "date": "2021-08-09",
+    "new": 60,
+    "active": 122,
+    "zeroBalance": 28,
+    "total": 10472,
+    "totalZeroBalance": 5262
+  },
+  {
+    "date": "2021-08-10",
+    "new": 18,
+    "active": 111,
+    "zeroBalance": 67,
+    "total": 10490,
+    "totalZeroBalance": 5330
+  },
+  {
+    "date": "2021-08-11",
+    "new": 8,
+    "active": 59,
+    "zeroBalance": 18,
+    "total": 10498,
+    "totalZeroBalance": 5342
+  },
+  {
+    "date": "2021-08-12",
+    "new": 28,
+    "active": 96,
+    "zeroBalance": 27,
+    "total": 10526,
+    "totalZeroBalance": 5366
+  },
+  {
+    "date": "2021-08-13",
+    "new": 19,
+    "active": 73,
+    "zeroBalance": 19,
+    "total": 10545,
+    "totalZeroBalance": 5370
+  },
+  {
+    "date": "2021-08-14",
+    "new": 15,
+    "active": 61,
+    "zeroBalance": 22,
+    "total": 10560,
+    "totalZeroBalance": 5388
+  },
+  {
+    "date": "2021-08-15",
+    "new": 11,
+    "active": 56,
+    "zeroBalance": 20,
+    "total": 10571,
+    "totalZeroBalance": 5403
+  },
+  {
+    "date": "2021-08-16",
+    "new": 8,
+    "active": 50,
+    "zeroBalance": 13,
+    "total": 10579,
+    "totalZeroBalance": 5411
+  },
+  {
+    "date": "2021-08-17",
+    "new": 15,
+    "active": 68,
+    "zeroBalance": 16,
+    "total": 10594,
+    "totalZeroBalance": 5428
+  },
+  {
+    "date": "2021-08-18",
+    "new": 32,
+    "active": 126,
+    "zeroBalance": 44,
+    "total": 10626,
+    "totalZeroBalance": 5453
+  },
+  {
+    "date": "2021-08-19",
+    "new": 383,
+    "active": 755,
+    "zeroBalance": 453,
+    "total": 11009,
+    "totalZeroBalance": 5992
+  },
+  {
+    "date": "2021-08-20",
+    "new": 56,
+    "active": 141,
+    "zeroBalance": 59,
+    "total": 11065,
+    "totalZeroBalance": 6048
+  },
+  {
+    "date": "2021-08-21",
+    "new": 24,
+    "active": 73,
+    "zeroBalance": 29,
+    "total": 11089,
+    "totalZeroBalance": 6072
+  },
+  {
+    "date": "2021-08-22",
+    "new": 21,
+    "active": 78,
+    "zeroBalance": 28,
+    "total": 11110,
+    "totalZeroBalance": 6096
+  },
+  {
+    "date": "2021-08-23",
+    "new": 33,
+    "active": 89,
+    "zeroBalance": 27,
+    "total": 11143,
+    "totalZeroBalance": 6118
+  },
+  {
+    "date": "2021-08-24",
+    "new": 40,
+    "active": 148,
+    "zeroBalance": 45,
+    "total": 11183,
+    "totalZeroBalance": 6159
+  },
+  {
+    "date": "2021-08-25",
+    "new": 52,
+    "active": 194,
+    "zeroBalance": 71,
+    "total": 11235,
+    "totalZeroBalance": 6215
+  },
+  {
+    "date": "2021-08-26",
+    "new": 80,
+    "active": 278,
+    "zeroBalance": 108,
+    "total": 11315,
+    "totalZeroBalance": 6341
+  },
+  {
+    "date": "2021-08-27",
+    "new": 23,
+    "active": 84,
+    "zeroBalance": 19,
+    "total": 11338,
+    "totalZeroBalance": 6364
+  },
+  {
+    "date": "2021-08-28",
+    "new": 18,
+    "active": 93,
+    "zeroBalance": 29,
+    "total": 11356,
+    "totalZeroBalance": 6382
+  },
+  {
+    "date": "2021-08-29",
+    "new": 32,
+    "active": 113,
+    "zeroBalance": 33,
+    "total": 11388,
+    "totalZeroBalance": 6410
+  },
+  {
+    "date": "2021-08-30",
+    "new": 45,
+    "active": 162,
+    "zeroBalance": 67,
+    "total": 11433,
+    "totalZeroBalance": 6480
+  },
+  {
+    "date": "2021-08-31",
+    "new": 149,
+    "active": 321,
+    "zeroBalance": 116,
+    "total": 11582,
+    "totalZeroBalance": 6586
+  },
+  {
+    "date": "2021-09-01",
+    "new": 174,
+    "active": 367,
+    "zeroBalance": 176,
+    "total": 11756,
+    "totalZeroBalance": 6778
+  },
+  {
+    "date": "2021-09-02",
+    "new": 42,
+    "active": 158,
+    "zeroBalance": 62,
+    "total": 11798,
+    "totalZeroBalance": 6837
+  },
+  {
+    "date": "2021-09-03",
+    "new": 19,
+    "active": 101,
+    "zeroBalance": 37,
+    "total": 11817,
+    "totalZeroBalance": 6865
+  },
+  {
+    "date": "2021-09-04",
+    "new": 228,
+    "active": 298,
+    "zeroBalance": 49,
+    "total": 12045,
+    "totalZeroBalance": 6912
+  },
+  {
+    "date": "2021-09-05",
+    "new": 45,
+    "active": 98,
+    "zeroBalance": 29,
+    "total": 12090,
+    "totalZeroBalance": 6942
+  },
+  {
+    "date": "2021-09-06",
+    "new": 32,
+    "active": 73,
+    "zeroBalance": 27,
+    "total": 12122,
+    "totalZeroBalance": 6969
+  },
+  {
+    "date": "2021-09-07",
+    "new": 23,
+    "active": 93,
+    "zeroBalance": 29,
+    "total": 12145,
+    "totalZeroBalance": 6988
+  },
+  {
+    "date": "2021-09-08",
+    "new": 21,
+    "active": 69,
+    "zeroBalance": 18,
+    "total": 12166,
+    "totalZeroBalance": 7003
+  },
+  {
+    "date": "2021-09-09",
+    "new": 14,
+    "active": 59,
+    "zeroBalance": 19,
+    "total": 12180,
+    "totalZeroBalance": 7021
+  },
+  {
+    "date": "2021-09-10",
+    "new": 23,
+    "active": 71,
+    "zeroBalance": 28,
+    "total": 12203,
+    "totalZeroBalance": 7042
+  },
+  {
+    "date": "2021-09-11",
+    "new": 26,
+    "active": 74,
+    "zeroBalance": 23,
+    "total": 12229,
+    "totalZeroBalance": 7068
+  },
+  {
+    "date": "2021-09-12",
+    "new": 17,
+    "active": 71,
+    "zeroBalance": 30,
+    "total": 12246,
+    "totalZeroBalance": 7097
+  },
+  {
+    "date": "2021-09-13",
+    "new": 17,
+    "active": 53,
+    "zeroBalance": 17,
+    "total": 12263,
+    "totalZeroBalance": 7115
+  },
+  {
+    "date": "2021-09-14",
+    "new": 34,
+    "active": 79,
+    "zeroBalance": 18,
+    "total": 12297,
+    "totalZeroBalance": 7131
+  },
+  {
+    "date": "2021-09-15",
+    "new": 13,
+    "active": 64,
+    "zeroBalance": 20,
+    "total": 12310,
+    "totalZeroBalance": 7145
+  },
+  {
+    "date": "2021-09-16",
+    "new": 15,
+    "active": 68,
+    "zeroBalance": 18,
+    "total": 12325,
+    "totalZeroBalance": 7165
+  },
+  {
+    "date": "2021-09-17",
+    "new": 18,
+    "active": 60,
+    "zeroBalance": 25,
+    "total": 12343,
+    "totalZeroBalance": 7185
+  },
+  {
+    "date": "2021-09-18",
+    "new": 12,
+    "active": 37,
+    "zeroBalance": 9,
+    "total": 12355,
+    "totalZeroBalance": 7194
+  },
+  {
+    "date": "2021-09-19",
+    "new": 18,
+    "active": 58,
+    "zeroBalance": 22,
+    "total": 12373,
+    "totalZeroBalance": 7220
+  },
+  {
+    "date": "2021-09-20",
+    "new": 10,
+    "active": 47,
+    "zeroBalance": 13,
+    "total": 12383,
+    "totalZeroBalance": 7236
+  },
+  {
+    "date": "2021-09-21",
+    "new": 12,
+    "active": 49,
+    "zeroBalance": 9,
+    "total": 12395,
+    "totalZeroBalance": 7246
+  },
+  {
+    "date": "2021-09-22",
+    "new": 18,
+    "active": 58,
+    "zeroBalance": 15,
+    "total": 12413,
+    "totalZeroBalance": 7265
+  },
+  {
+    "date": "2021-09-23",
+    "new": 12,
+    "active": 54,
+    "zeroBalance": 15,
+    "total": 12425,
+    "totalZeroBalance": 7275
+  },
+  {
+    "date": "2021-09-24",
+    "new": 18,
+    "active": 68,
+    "zeroBalance": 22,
+    "total": 12443,
+    "totalZeroBalance": 7296
+  },
+  {
+    "date": "2021-09-25",
+    "new": 6,
+    "active": 41,
+    "zeroBalance": 10,
+    "total": 12449,
+    "totalZeroBalance": 7308
+  },
+  {
+    "date": "2021-09-26",
+    "new": 14,
+    "active": 47,
+    "zeroBalance": 7,
+    "total": 12463,
+    "totalZeroBalance": 7314
+  },
+  {
+    "date": "2021-09-27",
+    "new": 9,
+    "active": 35,
+    "zeroBalance": 9,
+    "total": 12472,
+    "totalZeroBalance": 7320
+  },
+  {
+    "date": "2021-09-28",
+    "new": 17,
+    "active": 83,
+    "zeroBalance": 20,
+    "total": 12489,
+    "totalZeroBalance": 7334
+  },
+  {
+    "date": "2021-09-29",
+    "new": 8,
+    "active": 29,
+    "zeroBalance": 7,
+    "total": 12497,
+    "totalZeroBalance": 7343
+  },
+  {
+    "date": "2021-09-30",
+    "new": 19,
+    "active": 43,
+    "zeroBalance": 9,
+    "total": 12516,
+    "totalZeroBalance": 7351
+  },
+  {
+    "date": "2021-10-01",
+    "new": 14,
+    "active": 38,
+    "zeroBalance": 4,
+    "total": 12530,
+    "totalZeroBalance": 7355
+  },
+  {
+    "date": "2021-10-02",
+    "new": 14,
+    "active": 40,
+    "zeroBalance": 11,
+    "total": 12544,
+    "totalZeroBalance": 7365
+  },
+  {
+    "date": "2021-10-03",
+    "new": 8,
+    "active": 36,
+    "zeroBalance": 12,
+    "total": 12552,
+    "totalZeroBalance": 7375
+  },
+  {
+    "date": "2021-10-04",
+    "new": 13,
+    "active": 43,
+    "zeroBalance": 15,
+    "total": 12565,
+    "totalZeroBalance": 7394
+  },
+  {
+    "date": "2021-10-05",
+    "new": 13,
+    "active": 46,
+    "zeroBalance": 8,
+    "total": 12578,
+    "totalZeroBalance": 7402
+  },
+  {
+    "date": "2021-10-06",
+    "new": 8,
+    "active": 42,
+    "zeroBalance": 14,
+    "total": 12586,
+    "totalZeroBalance": 7415
+  },
+  {
+    "date": "2021-10-07",
+    "new": 982,
+    "active": 1726,
+    "zeroBalance": 775,
+    "total": 13568,
+    "totalZeroBalance": 8262
+  },
+  {
+    "date": "2021-10-08",
+    "new": 101,
+    "active": 256,
+    "zeroBalance": 122,
+    "total": 13669,
+    "totalZeroBalance": 8374
+  },
+  {
+    "date": "2021-10-09",
+    "new": 50,
+    "active": 149,
+    "zeroBalance": 60,
+    "total": 13719,
+    "totalZeroBalance": 8425
+  },
+  {
+    "date": "2021-10-10",
+    "new": 78,
+    "active": 191,
+    "zeroBalance": 80,
+    "total": 13797,
+    "totalZeroBalance": 8481
+  },
+  {
+    "date": "2021-10-11",
+    "new": 56,
+    "active": 141,
+    "zeroBalance": 49,
+    "total": 13853,
+    "totalZeroBalance": 8522
+  },
+  {
+    "date": "2021-10-12",
+    "new": 28,
+    "active": 84,
+    "zeroBalance": 27,
+    "total": 13881,
+    "totalZeroBalance": 8543
+  },
+  {
+    "date": "2021-10-13",
+    "new": 29,
+    "active": 92,
+    "zeroBalance": 27,
+    "total": 13910,
+    "totalZeroBalance": 8557
+  },
+  {
+    "date": "2021-10-14",
+    "new": 11,
+    "active": 65,
+    "zeroBalance": 22,
+    "total": 13921,
+    "totalZeroBalance": 8571
+  },
+  {
+    "date": "2021-10-15",
+    "new": 25,
+    "active": 77,
+    "zeroBalance": 20,
+    "total": 13946,
+    "totalZeroBalance": 8593
+  },
+  {
+    "date": "2021-10-16",
+    "new": 17,
+    "active": 66,
+    "zeroBalance": 20,
+    "total": 13963,
+    "totalZeroBalance": 8612
+  },
+  {
+    "date": "2021-10-17",
+    "new": 33,
+    "active": 133,
+    "zeroBalance": 51,
+    "total": 13996,
+    "totalZeroBalance": 8647
+  },
+  {
+    "date": "2021-10-18",
+    "new": 26,
+    "active": 78,
+    "zeroBalance": 21,
+    "total": 14022,
+    "totalZeroBalance": 8662
+  },
+  {
+    "date": "2021-10-19",
+    "new": 26,
+    "active": 84,
+    "zeroBalance": 19,
+    "total": 14048,
+    "totalZeroBalance": 8678
+  },
+  {
+    "date": "2021-10-20",
+    "new": 27,
+    "active": 72,
+    "zeroBalance": 17,
+    "total": 14075,
+    "totalZeroBalance": 8702
+  },
+  {
+    "date": "2021-10-21",
+    "new": 12,
+    "active": 55,
+    "zeroBalance": 18,
+    "total": 14087,
+    "totalZeroBalance": 8717
+  },
+  {
+    "date": "2021-10-22",
+    "new": 11,
+    "active": 48,
+    "zeroBalance": 13,
+    "total": 14098,
+    "totalZeroBalance": 8729
+  },
+  {
+    "date": "2021-10-23",
+    "new": 8,
+    "active": 38,
+    "zeroBalance": 10,
+    "total": 14106,
+    "totalZeroBalance": 8735
+  },
+  {
+    "date": "2021-10-24",
+    "new": 15,
+    "active": 46,
+    "zeroBalance": 13,
+    "total": 14121,
+    "totalZeroBalance": 8750
+  },
+  {
+    "date": "2021-10-25",
+    "new": 13,
+    "active": 63,
+    "zeroBalance": 21,
+    "total": 14134,
+    "totalZeroBalance": 8772
+  },
+  {
+    "date": "2021-10-26",
+    "new": 23,
+    "active": 68,
+    "zeroBalance": 24,
+    "total": 14157,
+    "totalZeroBalance": 8792
+  },
+  {
+    "date": "2021-10-27",
+    "new": 19,
+    "active": 57,
+    "zeroBalance": 15,
+    "total": 14176,
+    "totalZeroBalance": 8804
+  },
+  {
+    "date": "2021-10-28",
+    "new": 8,
+    "active": 46,
+    "zeroBalance": 11,
+    "total": 14184,
+    "totalZeroBalance": 8812
+  },
+  {
+    "date": "2021-10-29",
+    "new": 11,
+    "active": 44,
+    "zeroBalance": 10,
+    "total": 14195,
+    "totalZeroBalance": 8822
+  },
+  {
+    "date": "2021-10-30",
+    "new": 10,
+    "active": 52,
+    "zeroBalance": 14,
+    "total": 14205,
+    "totalZeroBalance": 8830
+  },
+  {
+    "date": "2021-10-31",
+    "new": 11,
+    "active": 34,
+    "zeroBalance": 6,
+    "total": 14216,
+    "totalZeroBalance": 8834
+  },
+  {
+    "date": "2021-11-01",
+    "new": 13,
+    "active": 57,
+    "zeroBalance": 11,
+    "total": 14229,
+    "totalZeroBalance": 8842
+  },
+  {
+    "date": "2021-11-02",
+    "new": 13,
+    "active": 62,
+    "zeroBalance": 13,
+    "total": 14242,
+    "totalZeroBalance": 8848
+  },
+  {
+    "date": "2021-11-03",
+    "new": 15,
+    "active": 67,
+    "zeroBalance": 18,
+    "total": 14257,
+    "totalZeroBalance": 8867
+  },
+  {
+    "date": "2021-11-04",
+    "new": 18,
+    "active": 59,
+    "zeroBalance": 21,
+    "total": 14275,
+    "totalZeroBalance": 8889
+  },
+  {
+    "date": "2021-11-05",
+    "new": 13,
+    "active": 59,
+    "zeroBalance": 15,
+    "total": 14288,
+    "totalZeroBalance": 8902
+  },
+  {
+    "date": "2021-11-06",
+    "new": 7,
+    "active": 34,
+    "zeroBalance": 10,
+    "total": 14295,
+    "totalZeroBalance": 8908
+  },
+  {
+    "date": "2021-11-07",
+    "new": 12,
+    "active": 52,
+    "zeroBalance": 13,
+    "total": 14307,
+    "totalZeroBalance": 8926
+  },
+  {
+    "date": "2021-11-08",
+    "new": 12,
+    "active": 47,
+    "zeroBalance": 19,
+    "total": 14319,
+    "totalZeroBalance": 8946
+  },
+  {
+    "date": "2021-11-09",
+    "new": 22,
+    "active": 107,
+    "zeroBalance": 32,
+    "total": 14341,
+    "totalZeroBalance": 8966
+  },
+  {
+    "date": "2021-11-10",
+    "new": 27,
+    "active": 90,
+    "zeroBalance": 30,
+    "total": 14368,
+    "totalZeroBalance": 8994
+  },
+  {
+    "date": "2021-11-11",
+    "new": 14,
+    "active": 77,
+    "zeroBalance": 20,
+    "total": 14382,
+    "totalZeroBalance": 9003
+  },
+  {
+    "date": "2021-11-12",
+    "new": 16,
+    "active": 72,
+    "zeroBalance": 16,
+    "total": 14398,
+    "totalZeroBalance": 9022
+  },
+  {
+    "date": "2021-11-13",
+    "new": 18,
+    "active": 53,
+    "zeroBalance": 14,
+    "total": 14416,
+    "totalZeroBalance": 9038
+  },
+  {
+    "date": "2021-11-14",
+    "new": 12,
+    "active": 50,
+    "zeroBalance": 22,
+    "total": 14428,
+    "totalZeroBalance": 9056
+  },
+  {
+    "date": "2021-11-15",
+    "new": 26,
+    "active": 93,
+    "zeroBalance": 29,
+    "total": 14454,
+    "totalZeroBalance": 9079
+  },
+  {
+    "date": "2021-11-16",
+    "new": 35,
+    "active": 95,
+    "zeroBalance": 24,
+    "total": 14489,
+    "totalZeroBalance": 9096
+  },
+  {
+    "date": "2021-11-17",
+    "new": 33,
+    "active": 97,
+    "zeroBalance": 34,
+    "total": 14522,
+    "totalZeroBalance": 9126
+  },
+  {
+    "date": "2021-11-18",
+    "new": 24,
+    "active": 65,
+    "zeroBalance": 13,
+    "total": 14546,
+    "totalZeroBalance": 9139
+  },
+  {
+    "date": "2021-11-19",
+    "new": 19,
+    "active": 60,
+    "zeroBalance": 19,
+    "total": 14565,
+    "totalZeroBalance": 9154
+  },
+  {
+    "date": "2021-11-20",
+    "new": 14,
+    "active": 47,
+    "zeroBalance": 17,
+    "total": 14579,
+    "totalZeroBalance": 9172
+  },
+  {
+    "date": "2021-11-21",
+    "new": 16,
+    "active": 64,
+    "zeroBalance": 19,
+    "total": 14595,
+    "totalZeroBalance": 9188
+  },
+  {
+    "date": "2021-11-22",
+    "new": 14,
+    "active": 54,
+    "zeroBalance": 16,
+    "total": 14609,
+    "totalZeroBalance": 9202
+  },
+  {
+    "date": "2021-11-23",
+    "new": 16,
+    "active": 46,
+    "zeroBalance": 14,
+    "total": 14625,
+    "totalZeroBalance": 9215
+  },
+  {
+    "date": "2021-11-24",
+    "new": 19,
+    "active": 73,
+    "zeroBalance": 41,
+    "total": 14644,
+    "totalZeroBalance": 9258
+  },
+  {
+    "date": "2021-11-25",
+    "new": 13,
+    "active": 41,
+    "zeroBalance": 13,
+    "total": 14657,
+    "totalZeroBalance": 9272
+  },
+  {
+    "date": "2021-11-26",
+    "new": 5,
+    "active": 44,
+    "zeroBalance": 10,
+    "total": 14662,
+    "totalZeroBalance": 9276
+  },
+  {
+    "date": "2021-11-27",
+    "new": 131,
+    "active": 388,
+    "zeroBalance": 176,
+    "total": 14793,
+    "totalZeroBalance": 9457
+  },
+  {
+    "date": "2021-11-28",
+    "new": 32,
+    "active": 129,
+    "zeroBalance": 45,
+    "total": 14825,
+    "totalZeroBalance": 9497
+  },
+  {
+    "date": "2021-11-29",
+    "new": 19,
+    "active": 65,
+    "zeroBalance": 15,
+    "total": 14844,
+    "totalZeroBalance": 9514
+  },
+  {
+    "date": "2021-11-30",
+    "new": 19,
+    "active": 67,
+    "zeroBalance": 21,
+    "total": 14863,
+    "totalZeroBalance": 9532
+  },
+  {
+    "date": "2021-12-01",
+    "new": 17,
+    "active": 67,
+    "zeroBalance": 16,
+    "total": 14880,
+    "totalZeroBalance": 9545
+  },
+  {
+    "date": "2021-12-02",
+    "new": 10,
+    "active": 49,
+    "zeroBalance": 11,
+    "total": 14890,
+    "totalZeroBalance": 9555
+  },
+  {
+    "date": "2021-12-03",
+    "new": 11,
+    "active": 58,
+    "zeroBalance": 15,
+    "total": 14901,
+    "totalZeroBalance": 9577
+  },
+  {
+    "date": "2021-12-04",
+    "new": 14,
+    "active": 68,
+    "zeroBalance": 17,
+    "total": 14915,
+    "totalZeroBalance": 9594
+  },
+  {
+    "date": "2021-12-05",
+    "new": 7,
+    "active": 52,
+    "zeroBalance": 14,
+    "total": 14922,
+    "totalZeroBalance": 9601
+  },
+  {
+    "date": "2021-12-06",
+    "new": 28,
+    "active": 95,
+    "zeroBalance": 34,
+    "total": 14950,
+    "totalZeroBalance": 9628
+  },
+  {
+    "date": "2021-12-07",
+    "new": 8,
+    "active": 48,
+    "zeroBalance": 14,
+    "total": 14958,
+    "totalZeroBalance": 9639
+  },
+  {
+    "date": "2021-12-08",
+    "new": 9,
+    "active": 48,
+    "zeroBalance": 12,
+    "total": 14967,
+    "totalZeroBalance": 9649
+  },
+  {
+    "date": "2021-12-09",
+    "new": 16,
+    "active": 54,
+    "zeroBalance": 16,
+    "total": 14983,
+    "totalZeroBalance": 9664
+  },
+  {
+    "date": "2021-12-10",
+    "new": 14,
+    "active": 56,
+    "zeroBalance": 16,
+    "total": 14997,
+    "totalZeroBalance": 9678
+  },
+  {
+    "date": "2021-12-11",
+    "new": 14,
+    "active": 49,
+    "zeroBalance": 13,
+    "total": 15011,
+    "totalZeroBalance": 9689
+  },
+  {
+    "date": "2021-12-12",
+    "new": 12,
+    "active": 59,
+    "zeroBalance": 15,
+    "total": 15023,
+    "totalZeroBalance": 9692
+  },
+  {
+    "date": "2021-12-13",
+    "new": 20,
+    "active": 62,
+    "zeroBalance": 20,
+    "total": 15043,
+    "totalZeroBalance": 9713
+  },
+  {
+    "date": "2021-12-14",
+    "new": 23,
+    "active": 65,
+    "zeroBalance": 15,
+    "total": 15066,
+    "totalZeroBalance": 9729
+  },
+  {
+    "date": "2021-12-15",
+    "new": 10,
+    "active": 43,
+    "zeroBalance": 11,
+    "total": 15076,
+    "totalZeroBalance": 9737
+  },
+  {
+    "date": "2021-12-16",
+    "new": 5,
+    "active": 35,
+    "zeroBalance": 11,
+    "total": 15081,
+    "totalZeroBalance": 9740
+  },
+  {
+    "date": "2021-12-17",
+    "new": 10,
+    "active": 52,
+    "zeroBalance": 14,
+    "total": 15091,
+    "totalZeroBalance": 9758
+  },
+  {
+    "date": "2021-12-18",
+    "new": 6,
+    "active": 34,
+    "zeroBalance": 9,
+    "total": 15097,
+    "totalZeroBalance": 9764
+  },
+  {
+    "date": "2021-12-19",
+    "new": 13,
+    "active": 47,
+    "zeroBalance": 19,
+    "total": 15110,
+    "totalZeroBalance": 9783
+  },
+  {
+    "date": "2021-12-20",
+    "new": 9,
+    "active": 66,
+    "zeroBalance": 13,
+    "total": 15119,
+    "totalZeroBalance": 9793
+  },
+  {
+    "date": "2021-12-21",
+    "new": 13,
+    "active": 44,
+    "zeroBalance": 15,
+    "total": 15132,
+    "totalZeroBalance": 9801
+  },
+  {
+    "date": "2021-12-22",
+    "new": 1,
+    "active": 39,
+    "zeroBalance": 12,
+    "total": 15133,
+    "totalZeroBalance": 9805
+  },
+  {
+    "date": "2021-12-23",
+    "new": 8,
+    "active": 29,
+    "zeroBalance": 5,
+    "total": 15141,
+    "totalZeroBalance": 9807
+  },
+  {
+    "date": "2021-12-24",
+    "new": 11,
+    "active": 48,
+    "zeroBalance": 18,
+    "total": 15152,
+    "totalZeroBalance": 9830
+  },
+  {
+    "date": "2021-12-25",
+    "new": 21,
+    "active": 104,
+    "zeroBalance": 42,
+    "total": 15173,
+    "totalZeroBalance": 9867
+  },
+  {
+    "date": "2021-12-26",
+    "new": 6,
+    "active": 60,
+    "zeroBalance": 29,
+    "total": 15179,
+    "totalZeroBalance": 9901
+  },
+  {
+    "date": "2021-12-27",
+    "new": 8,
+    "active": 58,
+    "zeroBalance": 30,
+    "total": 15187,
+    "totalZeroBalance": 9933
+  },
+  {
+    "date": "2021-12-28",
+    "new": 16,
+    "active": 115,
+    "zeroBalance": 62,
+    "total": 15203,
+    "totalZeroBalance": 9996
+  },
+  {
+    "date": "2021-12-29",
+    "new": 16,
+    "active": 95,
+    "zeroBalance": 44,
+    "total": 15219,
+    "totalZeroBalance": 10036
+  },
+  {
+    "date": "2021-12-30",
+    "new": 17,
+    "active": 66,
+    "zeroBalance": 27,
+    "total": 15236,
+    "totalZeroBalance": 10068
+  },
+  {
+    "date": "2021-12-31",
+    "new": 14,
+    "active": 48,
+    "zeroBalance": 14,
+    "total": 15250,
+    "totalZeroBalance": 10084
+  },
+  {
+    "date": "2022-01-01",
+    "new": 14,
+    "active": 49,
+    "zeroBalance": 9,
+    "total": 15264,
+    "totalZeroBalance": 10093
+  },
+  {
+    "date": "2022-01-02",
+    "new": 13,
+    "active": 58,
+    "zeroBalance": 24,
+    "total": 15277,
+    "totalZeroBalance": 10117
+  },
+  {
+    "date": "2022-01-03",
+    "new": 12,
+    "active": 50,
+    "zeroBalance": 21,
+    "total": 15289,
+    "totalZeroBalance": 10135
+  },
+  {
+    "date": "2022-01-04",
+    "new": 9,
+    "active": 39,
+    "zeroBalance": 14,
+    "total": 15298,
+    "totalZeroBalance": 10148
+  },
+  {
+    "date": "2022-01-05",
+    "new": 10,
+    "active": 51,
+    "zeroBalance": 17,
+    "total": 15308,
+    "totalZeroBalance": 10162
+  },
+  {
+    "date": "2022-01-06",
+    "new": 8,
+    "active": 197,
+    "zeroBalance": 165,
+    "total": 15316,
+    "totalZeroBalance": 10330
+  },
+  {
+    "date": "2022-01-07",
+    "new": 13,
+    "active": 55,
+    "zeroBalance": 20,
+    "total": 15329,
+    "totalZeroBalance": 10351
+  },
+  {
+    "date": "2022-01-08",
+    "new": 8,
+    "active": 29,
+    "zeroBalance": 13,
+    "total": 15337,
+    "totalZeroBalance": 10364
+  },
+  {
+    "date": "2022-01-09",
+    "new": 6,
+    "active": 34,
+    "zeroBalance": 8,
+    "total": 15343,
+    "totalZeroBalance": 10369
+  },
+  {
+    "date": "2022-01-10",
+    "new": 3,
+    "active": 37,
+    "zeroBalance": 14,
+    "total": 15346,
+    "totalZeroBalance": 10379
+  },
+  {
+    "date": "2022-01-11",
+    "new": 4,
+    "active": 18,
+    "zeroBalance": 6,
+    "total": 15350,
+    "totalZeroBalance": 10383
+  },
+  {
+    "date": "2022-01-12",
+    "new": 4,
+    "active": 18,
+    "zeroBalance": 4,
+    "total": 15354,
+    "totalZeroBalance": 10389
+  },
+  {
+    "date": "2022-01-13",
+    "new": 7,
+    "active": 37,
+    "zeroBalance": 10,
+    "total": 15361,
+    "totalZeroBalance": 10399
+  },
+  {
+    "date": "2022-01-14",
+    "new": 4,
+    "active": 23,
+    "zeroBalance": 9,
+    "total": 15365,
+    "totalZeroBalance": 10407
+  },
+  {
+    "date": "2022-01-15",
+    "new": 11,
+    "active": 43,
+    "zeroBalance": 11,
+    "total": 15376,
+    "totalZeroBalance": 10420
+  },
+  {
+    "date": "2022-01-16",
+    "new": 10,
+    "active": 28,
+    "zeroBalance": 8,
+    "total": 15386,
+    "totalZeroBalance": 10426
+  },
+  {
+    "date": "2022-01-17",
+    "new": 10,
+    "active": 27,
+    "zeroBalance": 5,
+    "total": 15396,
+    "totalZeroBalance": 10432
+  },
+  {
+    "date": "2022-01-18",
+    "new": 5,
+    "active": 21,
+    "zeroBalance": 5,
+    "total": 15401,
+    "totalZeroBalance": 10435
+  },
+  {
+    "date": "2022-01-19",
+    "new": 14,
+    "active": 51,
+    "zeroBalance": 13,
+    "total": 15415,
+    "totalZeroBalance": 10450
+  },
+  {
+    "date": "2022-01-20",
+    "new": 12,
+    "active": 39,
+    "zeroBalance": 14,
+    "total": 15427,
+    "totalZeroBalance": 10463
+  },
+  {
+    "date": "2022-01-21",
+    "new": 4,
+    "active": 34,
+    "zeroBalance": 9,
+    "total": 15431,
+    "totalZeroBalance": 10471
+  },
+  {
+    "date": "2022-01-22",
+    "new": 3,
+    "active": 42,
+    "zeroBalance": 6,
+    "total": 15434,
+    "totalZeroBalance": 10476
+  },
+  {
+    "date": "2022-01-23",
+    "new": 4,
+    "active": 37,
+    "zeroBalance": 6,
+    "total": 15438,
+    "totalZeroBalance": 10481
+  },
+  {
+    "date": "2022-01-24",
+    "new": 4,
+    "active": 33,
+    "zeroBalance": 8,
+    "total": 15442,
+    "totalZeroBalance": 10487
+  },
+  {
+    "date": "2022-01-25",
+    "new": 9,
+    "active": 34,
+    "zeroBalance": 5,
+    "total": 15451,
+    "totalZeroBalance": 10489
+  },
+  {
+    "date": "2022-01-26",
+    "new": 7,
+    "active": 33,
+    "zeroBalance": 7,
+    "total": 15458,
+    "totalZeroBalance": 10493
+  },
+  {
+    "date": "2022-01-27",
+    "new": 7,
+    "active": 31,
+    "zeroBalance": 8,
+    "total": 15465,
+    "totalZeroBalance": 10499
+  },
+  {
+    "date": "2022-01-28",
+    "new": 3,
+    "active": 33,
+    "zeroBalance": 5,
+    "total": 15468,
+    "totalZeroBalance": 10501
+  },
+  {
+    "date": "2022-01-29",
+    "new": 6,
+    "active": 27,
+    "zeroBalance": 9,
+    "total": 15474,
+    "totalZeroBalance": 10511
+  },
+  {
+    "date": "2022-01-30",
+    "new": 11,
+    "active": 33,
+    "zeroBalance": 7,
+    "total": 15485,
+    "totalZeroBalance": 10519
+  },
+  {
+    "date": "2022-01-31",
+    "new": 21,
+    "active": 62,
+    "zeroBalance": 20,
+    "total": 15506,
+    "totalZeroBalance": 10532
+  },
+  {
+    "date": "2022-02-01",
+    "new": 9,
+    "active": 36,
+    "zeroBalance": 9,
+    "total": 15515,
+    "totalZeroBalance": 10542
+  },
+  {
+    "date": "2022-02-02",
+    "new": 14,
+    "active": 35,
+    "zeroBalance": 8,
+    "total": 15529,
+    "totalZeroBalance": 10549
+  },
+  {
+    "date": "2022-02-03",
+    "new": 3,
+    "active": 21,
+    "zeroBalance": 4,
+    "total": 15532,
+    "totalZeroBalance": 10550
+  },
+  {
+    "date": "2022-02-04",
+    "new": 3,
+    "active": 23,
+    "zeroBalance": 5,
+    "total": 15535,
+    "totalZeroBalance": 10554
+  },
+  {
+    "date": "2022-02-05",
+    "new": 7,
+    "active": 21,
+    "zeroBalance": 3,
+    "total": 15542,
+    "totalZeroBalance": 10559
+  },
+  {
+    "date": "2022-02-06",
+    "new": 5,
+    "active": 28,
+    "zeroBalance": 7,
+    "total": 15547,
+    "totalZeroBalance": 10563
+  },
+  {
+    "date": "2022-02-07",
+    "new": 5,
+    "active": 28,
+    "zeroBalance": 2,
+    "total": 15552,
+    "totalZeroBalance": 10561
+  },
+  {
+    "date": "2022-02-08",
+    "new": 8,
+    "active": 40,
+    "zeroBalance": 9,
+    "total": 15560,
+    "totalZeroBalance": 10572
+  },
+  {
+    "date": "2022-02-09",
+    "new": 6,
+    "active": 33,
+    "zeroBalance": 7,
+    "total": 15566,
+    "totalZeroBalance": 10580
+  },
+  {
+    "date": "2022-02-10",
+    "new": 5,
+    "active": 25,
+    "zeroBalance": 5,
+    "total": 15571,
+    "totalZeroBalance": 10587
+  },
+  {
+    "date": "2022-02-11",
+    "new": 7,
+    "active": 18,
+    "zeroBalance": 2,
+    "total": 15578,
+    "totalZeroBalance": 10589
+  },
+  {
+    "date": "2022-02-12",
+    "new": 10,
+    "active": 31,
+    "zeroBalance": 9,
+    "total": 15588,
+    "totalZeroBalance": 10598
+  },
+  {
+    "date": "2022-02-13",
+    "new": 10,
+    "active": 41,
+    "zeroBalance": 6,
+    "total": 15598,
+    "totalZeroBalance": 10598
+  },
+  {
+    "date": "2022-02-14",
+    "new": 4,
+    "active": 26,
+    "zeroBalance": 4,
+    "total": 15602,
+    "totalZeroBalance": 10605
+  },
+  {
+    "date": "2022-02-15",
+    "new": 4,
+    "active": 19,
+    "zeroBalance": 2,
+    "total": 15606,
+    "totalZeroBalance": 10608
+  },
+  {
+    "date": "2022-02-16",
+    "new": 10,
+    "active": 34,
+    "zeroBalance": 6,
+    "total": 15616,
+    "totalZeroBalance": 10609
+  },
+  {
+    "date": "2022-02-17",
+    "new": 5,
+    "active": 26,
+    "zeroBalance": 7,
+    "total": 15621,
+    "totalZeroBalance": 10618
+  },
+  {
+    "date": "2022-02-18",
+    "new": 7,
+    "active": 20,
+    "zeroBalance": 5,
+    "total": 15628,
+    "totalZeroBalance": 10623
+  },
+  {
+    "date": "2022-02-19",
+    "new": 11,
+    "active": 36,
+    "zeroBalance": 5,
+    "total": 15639,
+    "totalZeroBalance": 10627
+  },
+  {
+    "date": "2022-02-20",
+    "new": 50,
+    "active": 143,
+    "zeroBalance": 37,
+    "total": 15689,
+    "totalZeroBalance": 10652
+  },
+  {
+    "date": "2022-02-21",
+    "new": 46,
+    "active": 115,
+    "zeroBalance": 22,
+    "total": 15735,
+    "totalZeroBalance": 10669
+  },
+  {
+    "date": "2022-02-22",
+    "new": 23,
+    "active": 78,
+    "zeroBalance": 21,
+    "total": 15758,
+    "totalZeroBalance": 10690
+  },
+  {
+    "date": "2022-02-23",
+    "new": 19,
+    "active": 54,
+    "zeroBalance": 12,
+    "total": 15777,
+    "totalZeroBalance": 10706
+  },
+  {
+    "date": "2022-02-24",
+    "new": 14,
+    "active": 62,
+    "zeroBalance": 18,
+    "total": 15791,
+    "totalZeroBalance": 10722
+  },
+  {
+    "date": "2022-02-25",
+    "new": 10,
+    "active": 38,
+    "zeroBalance": 7,
+    "total": 15801,
+    "totalZeroBalance": 10728
+  },
+  {
+    "date": "2022-02-26",
+    "new": 10,
+    "active": 37,
+    "zeroBalance": 11,
+    "total": 15811,
+    "totalZeroBalance": 10739
+  },
+  {
+    "date": "2022-02-27",
+    "new": 12,
+    "active": 36,
+    "zeroBalance": 5,
+    "total": 15823,
+    "totalZeroBalance": 10744
+  },
+  {
+    "date": "2022-02-28",
+    "new": 9,
+    "active": 39,
+    "zeroBalance": 10,
+    "total": 15832,
+    "totalZeroBalance": 10755
+  },
+  {
+    "date": "2022-03-01",
+    "new": 12,
+    "active": 54,
+    "zeroBalance": 12,
+    "total": 15844,
+    "totalZeroBalance": 10765
+  },
+  {
+    "date": "2022-03-02",
+    "new": 25,
+    "active": 87,
+    "zeroBalance": 20,
+    "total": 15869,
+    "totalZeroBalance": 10773
+  },
+  {
+    "date": "2022-03-03",
+    "new": 10,
+    "active": 40,
+    "zeroBalance": 8,
+    "total": 15879,
+    "totalZeroBalance": 10782
+  },
+  {
+    "date": "2022-03-04",
+    "new": 7,
+    "active": 34,
+    "zeroBalance": 6,
+    "total": 15886,
+    "totalZeroBalance": 10788
+  },
+  {
+    "date": "2022-03-05",
+    "new": 6,
+    "active": 32,
+    "zeroBalance": 6,
+    "total": 15892,
+    "totalZeroBalance": 10793
+  },
+  {
+    "date": "2022-03-06",
+    "new": 11,
+    "active": 41,
+    "zeroBalance": 10,
+    "total": 15903,
+    "totalZeroBalance": 10803
+  },
+  {
+    "date": "2022-03-07",
+    "new": 6,
+    "active": 34,
+    "zeroBalance": 5,
+    "total": 15909,
+    "totalZeroBalance": 10805
+  },
+  {
+    "date": "2022-03-08",
+    "new": 5,
+    "active": 27,
+    "zeroBalance": 5,
+    "total": 15914,
+    "totalZeroBalance": 10807
+  },
+  {
+    "date": "2022-03-09",
+    "new": 10,
+    "active": 36,
+    "zeroBalance": 10,
+    "total": 15924,
+    "totalZeroBalance": 10812
+  },
+  {
+    "date": "2022-03-10",
+    "new": 6,
+    "active": 25,
+    "zeroBalance": 5,
+    "total": 15930,
+    "totalZeroBalance": 10814
+  },
+  {
+    "date": "2022-03-11",
+    "new": 8,
+    "active": 39,
+    "zeroBalance": 11,
+    "total": 15938,
+    "totalZeroBalance": 10821
+  },
+  {
+    "date": "2022-03-12",
+    "new": 10,
+    "active": 33,
+    "zeroBalance": 9,
+    "total": 15948,
+    "totalZeroBalance": 10831
+  },
+  {
+    "date": "2022-03-13",
+    "new": 7,
+    "active": 31,
+    "zeroBalance": 9,
+    "total": 15955,
+    "totalZeroBalance": 10838
+  },
+  {
+    "date": "2022-03-14",
+    "new": 7,
+    "active": 22,
+    "zeroBalance": 4,
+    "total": 15962,
+    "totalZeroBalance": 10843
+  },
+  {
+    "date": "2022-03-15",
+    "new": 7,
+    "active": 29,
+    "zeroBalance": 9,
+    "total": 15969,
+    "totalZeroBalance": 10851
+  },
+  {
+    "date": "2022-03-16",
+    "new": 9,
+    "active": 28,
+    "zeroBalance": 5,
+    "total": 15978,
+    "totalZeroBalance": 10854
+  },
+  {
+    "date": "2022-03-17",
+    "new": 3,
+    "active": 19,
+    "zeroBalance": 2,
+    "total": 15981,
+    "totalZeroBalance": 10855
+  },
+  {
+    "date": "2022-03-18",
+    "new": 5,
+    "active": 20,
+    "zeroBalance": 3,
+    "total": 15986,
+    "totalZeroBalance": 10858
+  },
+  {
+    "date": "2022-03-19",
+    "new": 9,
+    "active": 44,
+    "zeroBalance": 10,
+    "total": 15995,
+    "totalZeroBalance": 10862
+  },
+  {
+    "date": "2022-03-20",
+    "new": 9,
+    "active": 54,
+    "zeroBalance": 11,
+    "total": 16004,
+    "totalZeroBalance": 10864
+  },
+  {
+    "date": "2022-03-21",
+    "new": 7,
+    "active": 43,
+    "zeroBalance": 12,
+    "total": 16011,
+    "totalZeroBalance": 10875
+  },
+  {
+    "date": "2022-03-22",
+    "new": 10,
+    "active": 40,
+    "zeroBalance": 7,
+    "total": 16021,
+    "totalZeroBalance": 10881
+  },
+  {
+    "date": "2022-03-23",
+    "new": 6,
+    "active": 32,
+    "zeroBalance": 7,
+    "total": 16027,
+    "totalZeroBalance": 10888
+  },
+  {
+    "date": "2022-03-24",
+    "new": 6,
+    "active": 27,
+    "zeroBalance": 4,
+    "total": 16033,
+    "totalZeroBalance": 10893
+  },
+  {
+    "date": "2022-03-25",
+    "new": 9,
+    "active": 37,
+    "zeroBalance": 9,
+    "total": 16042,
+    "totalZeroBalance": 10898
+  },
+  {
+    "date": "2022-03-26",
+    "new": 13,
+    "active": 36,
+    "zeroBalance": 7,
+    "total": 16055,
+    "totalZeroBalance": 10901
+  },
+  {
+    "date": "2022-03-27",
+    "new": 2,
+    "active": 19,
+    "zeroBalance": 2,
+    "total": 16057,
+    "totalZeroBalance": 10901
+  },
+  {
+    "date": "2022-03-28",
+    "new": 18,
+    "active": 54,
+    "zeroBalance": 16,
+    "total": 16075,
+    "totalZeroBalance": 10916
+  },
+  {
+    "date": "2022-03-29",
+    "new": 4,
+    "active": 26,
+    "zeroBalance": 7,
+    "total": 16079,
+    "totalZeroBalance": 10922
+  },
+  {
+    "date": "2022-03-30",
+    "new": 4,
+    "active": 30,
+    "zeroBalance": 7,
+    "total": 16083,
+    "totalZeroBalance": 10928
+  },
+  {
+    "date": "2022-03-31",
+    "new": 9,
+    "active": 33,
+    "zeroBalance": 7,
+    "total": 16092,
+    "totalZeroBalance": 10934
+  },
+  {
+    "date": "2022-04-01",
+    "new": 509,
+    "active": 868,
+    "zeroBalance": 668,
+    "total": 16601,
+    "totalZeroBalance": 11595
+  },
+  {
+    "date": "2022-04-02",
+    "new": 37,
+    "active": 99,
+    "zeroBalance": 39,
+    "total": 16638,
+    "totalZeroBalance": 11630
+  },
+  {
+    "date": "2022-04-03",
+    "new": 20,
+    "active": 64,
+    "zeroBalance": 11,
+    "total": 16658,
+    "totalZeroBalance": 11640
+  },
+  {
+    "date": "2022-04-04",
+    "new": 12,
+    "active": 57,
+    "zeroBalance": 14,
+    "total": 16670,
+    "totalZeroBalance": 11653
+  },
+  {
+    "date": "2022-04-05",
+    "new": 10,
+    "active": 39,
+    "zeroBalance": 8,
+    "total": 16680,
+    "totalZeroBalance": 11659
+  },
+  {
+    "date": "2022-04-06",
+    "new": 10,
+    "active": 58,
+    "zeroBalance": 15,
+    "total": 16690,
+    "totalZeroBalance": 11669
+  },
+  {
+    "date": "2022-04-07",
+    "new": 5,
+    "active": 30,
+    "zeroBalance": 4,
+    "total": 16695,
+    "totalZeroBalance": 11671
+  },
+  {
+    "date": "2022-04-08",
+    "new": 28,
+    "active": 126,
+    "zeroBalance": 62,
+    "total": 16723,
+    "totalZeroBalance": 11695
+  },
+  {
+    "date": "2022-04-09",
+    "new": 7,
+    "active": 37,
+    "zeroBalance": 3,
+    "total": 16730,
+    "totalZeroBalance": 11702
+  },
+  {
+    "date": "2022-04-10",
+    "new": 5,
+    "active": 30,
+    "zeroBalance": 6,
+    "total": 16735,
+    "totalZeroBalance": 11708
+  },
+  {
+    "date": "2022-04-11",
+    "new": 5,
+    "active": 39,
+    "zeroBalance": 9,
+    "total": 16740,
+    "totalZeroBalance": 11714
+  },
+  {
+    "date": "2022-04-12",
+    "new": 8,
+    "active": 43,
+    "zeroBalance": 13,
+    "total": 16748,
+    "totalZeroBalance": 11725
+  },
+  {
+    "date": "2022-04-13",
+    "new": 6,
+    "active": 32,
+    "zeroBalance": 6,
+    "total": 16754,
+    "totalZeroBalance": 11728
+  },
+  {
+    "date": "2022-04-14",
+    "new": 7,
+    "active": 34,
+    "zeroBalance": 11,
+    "total": 16761,
+    "totalZeroBalance": 11735
+  },
+  {
+    "date": "2022-04-15",
+    "new": 7,
+    "active": 41,
+    "zeroBalance": 11,
+    "total": 16768,
+    "totalZeroBalance": 11738
+  },
+  {
+    "date": "2022-04-16",
+    "new": 8,
+    "active": 36,
+    "zeroBalance": 10,
+    "total": 16776,
+    "totalZeroBalance": 11748
+  },
+  {
+    "date": "2022-04-17",
+    "new": 4,
+    "active": 35,
+    "zeroBalance": 8,
+    "total": 16780,
+    "totalZeroBalance": 11754
+  },
+  {
+    "date": "2022-04-18",
+    "new": 12,
+    "active": 50,
+    "zeroBalance": 13,
+    "total": 16792,
+    "totalZeroBalance": 11764
+  },
+  {
+    "date": "2022-04-19",
+    "new": 6,
+    "active": 26,
+    "zeroBalance": 6,
+    "total": 16798,
+    "totalZeroBalance": 11770
+  },
+  {
+    "date": "2022-04-20",
+    "new": 2,
+    "active": 32,
+    "zeroBalance": 4,
+    "total": 16800,
+    "totalZeroBalance": 11770
+  },
+  {
+    "date": "2022-04-21",
+    "new": 11,
+    "active": 34,
+    "zeroBalance": 6,
+    "total": 16811,
+    "totalZeroBalance": 11774
+  },
+  {
+    "date": "2022-04-22",
+    "new": 8,
+    "active": 38,
+    "zeroBalance": 8,
+    "total": 16819,
+    "totalZeroBalance": 11780
+  },
+  {
+    "date": "2022-04-23",
+    "new": 3,
+    "active": 26,
+    "zeroBalance": 7,
+    "total": 16822,
+    "totalZeroBalance": 11786
+  },
+  {
+    "date": "2022-04-24",
+    "new": 8,
+    "active": 33,
+    "zeroBalance": 5,
+    "total": 16830,
+    "totalZeroBalance": 11788
+  },
+  {
+    "date": "2022-04-25",
+    "new": 5,
+    "active": 20,
+    "zeroBalance": 4,
+    "total": 16835,
+    "totalZeroBalance": 11790
+  },
+  {
+    "date": "2022-04-26",
+    "new": 5,
+    "active": 24,
+    "zeroBalance": 4,
+    "total": 16840,
+    "totalZeroBalance": 11794
+  },
+  {
+    "date": "2022-04-27",
+    "new": 6,
+    "active": 30,
+    "zeroBalance": 7,
+    "total": 16846,
+    "totalZeroBalance": 11798
+  },
+  {
+    "date": "2022-04-28",
+    "new": 8,
+    "active": 40,
+    "zeroBalance": 6,
+    "total": 16854,
+    "totalZeroBalance": 11804
+  }
+]
