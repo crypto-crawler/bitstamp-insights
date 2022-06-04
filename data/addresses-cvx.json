@@ -3043,7 +3043,7 @@
     "date": "2022-06-01",
     "new": 33,
     "active": 409,
-    "zeroBalance": 87,
+    "zeroBalance": 91,
     "total": 40620,
     "totalZeroBalance": 29848
   },
@@ -3051,8 +3051,16 @@
     "date": "2022-06-02",
     "new": 31,
     "active": 333,
-    "zeroBalance": 60,
+    "zeroBalance": 61,
     "total": 40651,
     "totalZeroBalance": 29818
+  },
+  {
+    "date": "2022-06-03",
+    "new": 31,
+    "active": 252,
+    "zeroBalance": 49,
+    "total": 40682,
+    "totalZeroBalance": 29828
   }
 ]
