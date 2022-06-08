@@ -3971,7 +3971,7 @@
     "date": "2021-12-09",
     "new": 6704,
     "active": 14097,
-    "zeroBalance": 6154,
+    "zeroBalance": 6153,
     "total": 2100318,
     "totalZeroBalance": 1091511
   },
@@ -3979,16 +3979,1440 @@
     "date": "2021-12-10",
     "new": 6643,
     "active": 12411,
-    "zeroBalance": 4605,
+    "zeroBalance": 4608,
     "total": 2106961,
-    "totalZeroBalance": 1096102
+    "totalZeroBalance": 1096101
   },
   {
     "date": "2021-12-11",
     "new": 6790,
     "active": 12590,
-    "zeroBalance": 4880,
+    "zeroBalance": 4886,
     "total": 2113751,
-    "totalZeroBalance": 1100931
+    "totalZeroBalance": 1100932
+  },
+  {
+    "date": "2021-12-12",
+    "new": 7669,
+    "active": 14282,
+    "zeroBalance": 5596,
+    "total": 2121420,
+    "totalZeroBalance": 1106374
+  },
+  {
+    "date": "2021-12-13",
+    "new": 7993,
+    "active": 13396,
+    "zeroBalance": 4735,
+    "total": 2129413,
+    "totalZeroBalance": 1110964
+  },
+  {
+    "date": "2021-12-14",
+    "new": 8596,
+    "active": 14830,
+    "zeroBalance": 5003,
+    "total": 2138009,
+    "totalZeroBalance": 1115937
+  },
+  {
+    "date": "2021-12-15",
+    "new": 6187,
+    "active": 11197,
+    "zeroBalance": 3884,
+    "total": 2144196,
+    "totalZeroBalance": 1119730
+  },
+  {
+    "date": "2021-12-16",
+    "new": 5292,
+    "active": 9298,
+    "zeroBalance": 2804,
+    "total": 2149488,
+    "totalZeroBalance": 1122372
+  },
+  {
+    "date": "2021-12-17",
+    "new": 5051,
+    "active": 9625,
+    "zeroBalance": 2737,
+    "total": 2154539,
+    "totalZeroBalance": 1125002
+  },
+  {
+    "date": "2021-12-18",
+    "new": 5186,
+    "active": 9783,
+    "zeroBalance": 2866,
+    "total": 2159725,
+    "totalZeroBalance": 1127706
+  },
+  {
+    "date": "2021-12-19",
+    "new": 5237,
+    "active": 9960,
+    "zeroBalance": 3072,
+    "total": 2164962,
+    "totalZeroBalance": 1130693
+  },
+  {
+    "date": "2021-12-20",
+    "new": 5205,
+    "active": 10206,
+    "zeroBalance": 2990,
+    "total": 2170167,
+    "totalZeroBalance": 1133473
+  },
+  {
+    "date": "2021-12-21",
+    "new": 5339,
+    "active": 9946,
+    "zeroBalance": 2941,
+    "total": 2175506,
+    "totalZeroBalance": 1136209
+  },
+  {
+    "date": "2021-12-22",
+    "new": 5740,
+    "active": 10877,
+    "zeroBalance": 3370,
+    "total": 2181246,
+    "totalZeroBalance": 1139245
+  },
+  {
+    "date": "2021-12-23",
+    "new": 5697,
+    "active": 10594,
+    "zeroBalance": 3174,
+    "total": 2186943,
+    "totalZeroBalance": 1142232
+  },
+  {
+    "date": "2021-12-24",
+    "new": 6638,
+    "active": 13324,
+    "zeroBalance": 4628,
+    "total": 2193581,
+    "totalZeroBalance": 1146899
+  },
+  {
+    "date": "2021-12-25",
+    "new": 5631,
+    "active": 9852,
+    "zeroBalance": 2899,
+    "total": 2199212,
+    "totalZeroBalance": 1149692
+  },
+  {
+    "date": "2021-12-26",
+    "new": 6236,
+    "active": 11870,
+    "zeroBalance": 4011,
+    "total": 2205448,
+    "totalZeroBalance": 1153738
+  },
+  {
+    "date": "2021-12-27",
+    "new": 6243,
+    "active": 11034,
+    "zeroBalance": 3205,
+    "total": 2211691,
+    "totalZeroBalance": 1156796
+  },
+  {
+    "date": "2021-12-28",
+    "new": 5346,
+    "active": 9960,
+    "zeroBalance": 2920,
+    "total": 2217037,
+    "totalZeroBalance": 1159684
+  },
+  {
+    "date": "2021-12-29",
+    "new": 4885,
+    "active": 8530,
+    "zeroBalance": 2262,
+    "total": 2221922,
+    "totalZeroBalance": 1161840
+  },
+  {
+    "date": "2021-12-30",
+    "new": 5654,
+    "active": 10416,
+    "zeroBalance": 3114,
+    "total": 2227576,
+    "totalZeroBalance": 1164827
+  },
+  {
+    "date": "2021-12-31",
+    "new": 5994,
+    "active": 10469,
+    "zeroBalance": 2743,
+    "total": 2233570,
+    "totalZeroBalance": 1167482
+  },
+  {
+    "date": "2022-01-01",
+    "new": 4786,
+    "active": 8713,
+    "zeroBalance": 2460,
+    "total": 2238356,
+    "totalZeroBalance": 1169868
+  },
+  {
+    "date": "2022-01-02",
+    "new": 4882,
+    "active": 9285,
+    "zeroBalance": 2999,
+    "total": 2243238,
+    "totalZeroBalance": 1172852
+  },
+  {
+    "date": "2022-01-03",
+    "new": 4836,
+    "active": 8777,
+    "zeroBalance": 2485,
+    "total": 2248074,
+    "totalZeroBalance": 1175178
+  },
+  {
+    "date": "2022-01-04",
+    "new": 4936,
+    "active": 8994,
+    "zeroBalance": 2396,
+    "total": 2253010,
+    "totalZeroBalance": 1177433
+  },
+  {
+    "date": "2022-01-05",
+    "new": 4581,
+    "active": 8596,
+    "zeroBalance": 2196,
+    "total": 2257591,
+    "totalZeroBalance": 1179405
+  },
+  {
+    "date": "2022-01-06",
+    "new": 4566,
+    "active": 8596,
+    "zeroBalance": 2354,
+    "total": 2262157,
+    "totalZeroBalance": 1181582
+  },
+  {
+    "date": "2022-01-07",
+    "new": 4302,
+    "active": 8316,
+    "zeroBalance": 2466,
+    "total": 2266459,
+    "totalZeroBalance": 1183947
+  },
+  {
+    "date": "2022-01-08",
+    "new": 4289,
+    "active": 8527,
+    "zeroBalance": 2579,
+    "total": 2270748,
+    "totalZeroBalance": 1186376
+  },
+  {
+    "date": "2022-01-09",
+    "new": 3668,
+    "active": 7063,
+    "zeroBalance": 2045,
+    "total": 2274416,
+    "totalZeroBalance": 1188340
+  },
+  {
+    "date": "2022-01-10",
+    "new": 3335,
+    "active": 6327,
+    "zeroBalance": 1703,
+    "total": 2277751,
+    "totalZeroBalance": 1189867
+  },
+  {
+    "date": "2022-01-11",
+    "new": 3325,
+    "active": 6259,
+    "zeroBalance": 1643,
+    "total": 2281076,
+    "totalZeroBalance": 1191391
+  },
+  {
+    "date": "2022-01-12",
+    "new": 4016,
+    "active": 7679,
+    "zeroBalance": 2203,
+    "total": 2285092,
+    "totalZeroBalance": 1193481
+  },
+  {
+    "date": "2022-01-13",
+    "new": 4124,
+    "active": 7539,
+    "zeroBalance": 2125,
+    "total": 2289216,
+    "totalZeroBalance": 1195380
+  },
+  {
+    "date": "2022-01-14",
+    "new": 3536,
+    "active": 6741,
+    "zeroBalance": 1884,
+    "total": 2292752,
+    "totalZeroBalance": 1197119
+  },
+  {
+    "date": "2022-01-15",
+    "new": 3726,
+    "active": 6886,
+    "zeroBalance": 1860,
+    "total": 2296478,
+    "totalZeroBalance": 1198825
+  },
+  {
+    "date": "2022-01-16",
+    "new": 3567,
+    "active": 6642,
+    "zeroBalance": 2045,
+    "total": 2300045,
+    "totalZeroBalance": 1200864
+  },
+  {
+    "date": "2022-01-17",
+    "new": 3081,
+    "active": 6117,
+    "zeroBalance": 1750,
+    "total": 2303126,
+    "totalZeroBalance": 1202554
+  },
+  {
+    "date": "2022-01-18",
+    "new": 3074,
+    "active": 5978,
+    "zeroBalance": 1714,
+    "total": 2306200,
+    "totalZeroBalance": 1204227
+  },
+  {
+    "date": "2022-01-19",
+    "new": 3192,
+    "active": 6581,
+    "zeroBalance": 1853,
+    "total": 2309392,
+    "totalZeroBalance": 1205986
+  },
+  {
+    "date": "2022-01-20",
+    "new": 4065,
+    "active": 7069,
+    "zeroBalance": 1849,
+    "total": 2313457,
+    "totalZeroBalance": 1207783
+  },
+  {
+    "date": "2022-01-21",
+    "new": 2992,
+    "active": 6431,
+    "zeroBalance": 1724,
+    "total": 2316449,
+    "totalZeroBalance": 1209381
+  },
+  {
+    "date": "2022-01-22",
+    "new": 3631,
+    "active": 8436,
+    "zeroBalance": 2475,
+    "total": 2320080,
+    "totalZeroBalance": 1211753
+  },
+  {
+    "date": "2022-01-23",
+    "new": 3284,
+    "active": 6841,
+    "zeroBalance": 1863,
+    "total": 2323364,
+    "totalZeroBalance": 1213423
+  },
+  {
+    "date": "2022-01-24",
+    "new": 3011,
+    "active": 6068,
+    "zeroBalance": 1632,
+    "total": 2326375,
+    "totalZeroBalance": 1214964
+  },
+  {
+    "date": "2022-01-25",
+    "new": 3064,
+    "active": 5987,
+    "zeroBalance": 1719,
+    "total": 2329439,
+    "totalZeroBalance": 1216614
+  },
+  {
+    "date": "2022-01-26",
+    "new": 3169,
+    "active": 6086,
+    "zeroBalance": 1628,
+    "total": 2332608,
+    "totalZeroBalance": 1218128
+  },
+  {
+    "date": "2022-01-27",
+    "new": 2691,
+    "active": 5145,
+    "zeroBalance": 1378,
+    "total": 2335299,
+    "totalZeroBalance": 1219368
+  },
+  {
+    "date": "2022-01-28",
+    "new": 2795,
+    "active": 14545,
+    "zeroBalance": 8118,
+    "total": 2338094,
+    "totalZeroBalance": 1229930
+  },
+  {
+    "date": "2022-01-29",
+    "new": 2843,
+    "active": 6500,
+    "zeroBalance": 2156,
+    "total": 2340937,
+    "totalZeroBalance": 1232133
+  },
+  {
+    "date": "2022-01-30",
+    "new": 2745,
+    "active": 5754,
+    "zeroBalance": 1805,
+    "total": 2343682,
+    "totalZeroBalance": 1233956
+  },
+  {
+    "date": "2022-01-31",
+    "new": 2580,
+    "active": 6530,
+    "zeroBalance": 2766,
+    "total": 2346262,
+    "totalZeroBalance": 1236885
+  },
+  {
+    "date": "2022-02-01",
+    "new": 2615,
+    "active": 7696,
+    "zeroBalance": 3641,
+    "total": 2348877,
+    "totalZeroBalance": 1240874
+  },
+  {
+    "date": "2022-02-02",
+    "new": 2448,
+    "active": 5099,
+    "zeroBalance": 1596,
+    "total": 2351325,
+    "totalZeroBalance": 1242385
+  },
+  {
+    "date": "2022-02-03",
+    "new": 2440,
+    "active": 5051,
+    "zeroBalance": 1612,
+    "total": 2353765,
+    "totalZeroBalance": 1243951
+  },
+  {
+    "date": "2022-02-04",
+    "new": 2538,
+    "active": 5848,
+    "zeroBalance": 2152,
+    "total": 2356303,
+    "totalZeroBalance": 1246066
+  },
+  {
+    "date": "2022-02-05",
+    "new": 3262,
+    "active": 7163,
+    "zeroBalance": 2577,
+    "total": 2359565,
+    "totalZeroBalance": 1248531
+  },
+  {
+    "date": "2022-02-06",
+    "new": 3511,
+    "active": 7377,
+    "zeroBalance": 2447,
+    "total": 2363076,
+    "totalZeroBalance": 1250903
+  },
+  {
+    "date": "2022-02-07",
+    "new": 5756,
+    "active": 12057,
+    "zeroBalance": 4112,
+    "total": 2368832,
+    "totalZeroBalance": 1254728
+  },
+  {
+    "date": "2022-02-08",
+    "new": 5418,
+    "active": 10785,
+    "zeroBalance": 3634,
+    "total": 2374250,
+    "totalZeroBalance": 1258147
+  },
+  {
+    "date": "2022-02-09",
+    "new": 4650,
+    "active": 9181,
+    "zeroBalance": 3081,
+    "total": 2378900,
+    "totalZeroBalance": 1261073
+  },
+  {
+    "date": "2022-02-10",
+    "new": 4302,
+    "active": 8685,
+    "zeroBalance": 2998,
+    "total": 2383202,
+    "totalZeroBalance": 1263949
+  },
+  {
+    "date": "2022-02-11",
+    "new": 4047,
+    "active": 8201,
+    "zeroBalance": 2747,
+    "total": 2387249,
+    "totalZeroBalance": 1266626
+  },
+  {
+    "date": "2022-02-12",
+    "new": 3698,
+    "active": 7468,
+    "zeroBalance": 2484,
+    "total": 2390947,
+    "totalZeroBalance": 1269140
+  },
+  {
+    "date": "2022-02-13",
+    "new": 4165,
+    "active": 8663,
+    "zeroBalance": 3083,
+    "total": 2395112,
+    "totalZeroBalance": 1272107
+  },
+  {
+    "date": "2022-02-14",
+    "new": 4112,
+    "active": 8108,
+    "zeroBalance": 2954,
+    "total": 2399224,
+    "totalZeroBalance": 1275035
+  },
+  {
+    "date": "2022-02-15",
+    "new": 4131,
+    "active": 7763,
+    "zeroBalance": 2395,
+    "total": 2403355,
+    "totalZeroBalance": 1277337
+  },
+  {
+    "date": "2022-02-16",
+    "new": 3461,
+    "active": 6631,
+    "zeroBalance": 1972,
+    "total": 2406816,
+    "totalZeroBalance": 1279231
+  },
+  {
+    "date": "2022-02-17",
+    "new": 3623,
+    "active": 7286,
+    "zeroBalance": 2412,
+    "total": 2410439,
+    "totalZeroBalance": 1281566
+  },
+  {
+    "date": "2022-02-18",
+    "new": 2859,
+    "active": 5915,
+    "zeroBalance": 1846,
+    "total": 2413298,
+    "totalZeroBalance": 1283286
+  },
+  {
+    "date": "2022-02-19",
+    "new": 3404,
+    "active": 6740,
+    "zeroBalance": 2090,
+    "total": 2416702,
+    "totalZeroBalance": 1285268
+  },
+  {
+    "date": "2022-02-20",
+    "new": 3121,
+    "active": 6300,
+    "zeroBalance": 1794,
+    "total": 2419823,
+    "totalZeroBalance": 1287037
+  },
+  {
+    "date": "2022-02-21",
+    "new": 2820,
+    "active": 5648,
+    "zeroBalance": 1587,
+    "total": 2422643,
+    "totalZeroBalance": 1288496
+  },
+  {
+    "date": "2022-02-22",
+    "new": 2881,
+    "active": 5750,
+    "zeroBalance": 1611,
+    "total": 2425524,
+    "totalZeroBalance": 1290024
+  },
+  {
+    "date": "2022-02-23",
+    "new": 2974,
+    "active": 5934,
+    "zeroBalance": 1732,
+    "total": 2428498,
+    "totalZeroBalance": 1291599
+  },
+  {
+    "date": "2022-02-24",
+    "new": 3127,
+    "active": 6919,
+    "zeroBalance": 2085,
+    "total": 2431625,
+    "totalZeroBalance": 1293608
+  },
+  {
+    "date": "2022-02-25",
+    "new": 3028,
+    "active": 6201,
+    "zeroBalance": 1878,
+    "total": 2434653,
+    "totalZeroBalance": 1295353
+  },
+  {
+    "date": "2022-02-26",
+    "new": 3304,
+    "active": 6910,
+    "zeroBalance": 2356,
+    "total": 2437957,
+    "totalZeroBalance": 1297604
+  },
+  {
+    "date": "2022-02-27",
+    "new": 2991,
+    "active": 6655,
+    "zeroBalance": 2207,
+    "total": 2440948,
+    "totalZeroBalance": 1299846
+  },
+  {
+    "date": "2022-02-28",
+    "new": 2724,
+    "active": 6012,
+    "zeroBalance": 1897,
+    "total": 2443672,
+    "totalZeroBalance": 1301593
+  },
+  {
+    "date": "2022-03-01",
+    "new": 3406,
+    "active": 7007,
+    "zeroBalance": 2252,
+    "total": 2447078,
+    "totalZeroBalance": 1303673
+  },
+  {
+    "date": "2022-03-02",
+    "new": 3070,
+    "active": 6516,
+    "zeroBalance": 2146,
+    "total": 2450148,
+    "totalZeroBalance": 1305828
+  },
+  {
+    "date": "2022-03-03",
+    "new": 2691,
+    "active": 5742,
+    "zeroBalance": 1812,
+    "total": 2452839,
+    "totalZeroBalance": 1307612
+  },
+  {
+    "date": "2022-03-04",
+    "new": 2469,
+    "active": 5523,
+    "zeroBalance": 1820,
+    "total": 2455308,
+    "totalZeroBalance": 1309321
+  },
+  {
+    "date": "2022-03-05",
+    "new": 2654,
+    "active": 6158,
+    "zeroBalance": 2293,
+    "total": 2457962,
+    "totalZeroBalance": 1311585
+  },
+  {
+    "date": "2022-03-06",
+    "new": 2589,
+    "active": 7298,
+    "zeroBalance": 3297,
+    "total": 2460551,
+    "totalZeroBalance": 1315090
+  },
+  {
+    "date": "2022-03-07",
+    "new": 2501,
+    "active": 7079,
+    "zeroBalance": 3200,
+    "total": 2463052,
+    "totalZeroBalance": 1318460
+  },
+  {
+    "date": "2022-03-08",
+    "new": 2542,
+    "active": 5729,
+    "zeroBalance": 2101,
+    "total": 2465594,
+    "totalZeroBalance": 1320473
+  },
+  {
+    "date": "2022-03-09",
+    "new": 3038,
+    "active": 9569,
+    "zeroBalance": 4633,
+    "total": 2468632,
+    "totalZeroBalance": 1325609
+  },
+  {
+    "date": "2022-03-10",
+    "new": 2764,
+    "active": 5799,
+    "zeroBalance": 1855,
+    "total": 2471396,
+    "totalZeroBalance": 1327385
+  },
+  {
+    "date": "2022-03-11",
+    "new": 2780,
+    "active": 6142,
+    "zeroBalance": 2155,
+    "total": 2474176,
+    "totalZeroBalance": 1329477
+  },
+  {
+    "date": "2022-03-12",
+    "new": 2893,
+    "active": 7287,
+    "zeroBalance": 3216,
+    "total": 2477069,
+    "totalZeroBalance": 1332604
+  },
+  {
+    "date": "2022-03-13",
+    "new": 2541,
+    "active": 6125,
+    "zeroBalance": 2335,
+    "total": 2479610,
+    "totalZeroBalance": 1334902
+  },
+  {
+    "date": "2022-03-14",
+    "new": 2494,
+    "active": 5297,
+    "zeroBalance": 1677,
+    "total": 2482104,
+    "totalZeroBalance": 1336467
+  },
+  {
+    "date": "2022-03-15",
+    "new": 2430,
+    "active": 5817,
+    "zeroBalance": 2185,
+    "total": 2484534,
+    "totalZeroBalance": 1338574
+  },
+  {
+    "date": "2022-03-16",
+    "new": 2513,
+    "active": 39213,
+    "zeroBalance": 30633,
+    "total": 2487047,
+    "totalZeroBalance": 1373920
+  },
+  {
+    "date": "2022-03-17",
+    "new": 2564,
+    "active": 8027,
+    "zeroBalance": 3350,
+    "total": 2489611,
+    "totalZeroBalance": 1378154
+  },
+  {
+    "date": "2022-03-18",
+    "new": 2403,
+    "active": 9183,
+    "zeroBalance": 4771,
+    "total": 2492014,
+    "totalZeroBalance": 1383774
+  },
+  {
+    "date": "2022-03-19",
+    "new": 3159,
+    "active": 11697,
+    "zeroBalance": 6012,
+    "total": 2495173,
+    "totalZeroBalance": 1390489
+  },
+  {
+    "date": "2022-03-20",
+    "new": 2719,
+    "active": 12113,
+    "zeroBalance": 7231,
+    "total": 2497892,
+    "totalZeroBalance": 1398616
+  },
+  {
+    "date": "2022-03-21",
+    "new": 2368,
+    "active": 7272,
+    "zeroBalance": 2901,
+    "total": 2500260,
+    "totalZeroBalance": 1401944
+  },
+  {
+    "date": "2022-03-22",
+    "new": 2512,
+    "active": 13088,
+    "zeroBalance": 8119,
+    "total": 2502772,
+    "totalZeroBalance": 1411216
+  },
+  {
+    "date": "2022-03-23",
+    "new": 2571,
+    "active": 10208,
+    "zeroBalance": 5261,
+    "total": 2505343,
+    "totalZeroBalance": 1417622
+  },
+  {
+    "date": "2022-03-24",
+    "new": 2758,
+    "active": 10115,
+    "zeroBalance": 5367,
+    "total": 2508101,
+    "totalZeroBalance": 1423603
+  },
+  {
+    "date": "2022-03-25",
+    "new": 2573,
+    "active": 8528,
+    "zeroBalance": 3875,
+    "total": 2510674,
+    "totalZeroBalance": 1428464
+  },
+  {
+    "date": "2022-03-26",
+    "new": 2520,
+    "active": 10409,
+    "zeroBalance": 6049,
+    "total": 2513194,
+    "totalZeroBalance": 1435170
+  },
+  {
+    "date": "2022-03-27",
+    "new": 2722,
+    "active": 11041,
+    "zeroBalance": 6166,
+    "total": 2515916,
+    "totalZeroBalance": 1442167
+  },
+  {
+    "date": "2022-03-28",
+    "new": 3605,
+    "active": 9823,
+    "zeroBalance": 4157,
+    "total": 2519521,
+    "totalZeroBalance": 1446584
+  },
+  {
+    "date": "2022-03-29",
+    "new": 3098,
+    "active": 8204,
+    "zeroBalance": 3340,
+    "total": 2522619,
+    "totalZeroBalance": 1450086
+  },
+  {
+    "date": "2022-03-30",
+    "new": 2882,
+    "active": 8749,
+    "zeroBalance": 4070,
+    "total": 2525501,
+    "totalZeroBalance": 1454556
+  },
+  {
+    "date": "2022-03-31",
+    "new": 2870,
+    "active": 7132,
+    "zeroBalance": 2721,
+    "total": 2528371,
+    "totalZeroBalance": 1457370
+  },
+  {
+    "date": "2022-04-01",
+    "new": 2219,
+    "active": 7763,
+    "zeroBalance": 4044,
+    "total": 2530590,
+    "totalZeroBalance": 1461668
+  },
+  {
+    "date": "2022-04-02",
+    "new": 2293,
+    "active": 6520,
+    "zeroBalance": 2930,
+    "total": 2532883,
+    "totalZeroBalance": 1464669
+  },
+  {
+    "date": "2022-04-03",
+    "new": 2224,
+    "active": 6235,
+    "zeroBalance": 2850,
+    "total": 2535107,
+    "totalZeroBalance": 1467577
+  },
+  {
+    "date": "2022-04-04",
+    "new": 2107,
+    "active": 5642,
+    "zeroBalance": 2424,
+    "total": 2537214,
+    "totalZeroBalance": 1470001
+  },
+  {
+    "date": "2022-04-05",
+    "new": 2350,
+    "active": 5816,
+    "zeroBalance": 2456,
+    "total": 2539564,
+    "totalZeroBalance": 1472411
+  },
+  {
+    "date": "2022-04-06",
+    "new": 2113,
+    "active": 5386,
+    "zeroBalance": 2204,
+    "total": 2541677,
+    "totalZeroBalance": 1474558
+  },
+  {
+    "date": "2022-04-07",
+    "new": 1893,
+    "active": 4963,
+    "zeroBalance": 2102,
+    "total": 2543570,
+    "totalZeroBalance": 1476589
+  },
+  {
+    "date": "2022-04-08",
+    "new": 1896,
+    "active": 4630,
+    "zeroBalance": 1673,
+    "total": 2545466,
+    "totalZeroBalance": 1478221
+  },
+  {
+    "date": "2022-04-09",
+    "new": 1970,
+    "active": 5933,
+    "zeroBalance": 2949,
+    "total": 2547436,
+    "totalZeroBalance": 1481224
+  },
+  {
+    "date": "2022-04-10",
+    "new": 1971,
+    "active": 5258,
+    "zeroBalance": 2258,
+    "total": 2549407,
+    "totalZeroBalance": 1483437
+  },
+  {
+    "date": "2022-04-11",
+    "new": 1915,
+    "active": 6895,
+    "zeroBalance": 3681,
+    "total": 2551322,
+    "totalZeroBalance": 1487200
+  },
+  {
+    "date": "2022-04-12",
+    "new": 3477,
+    "active": 9628,
+    "zeroBalance": 3920,
+    "total": 2554799,
+    "totalZeroBalance": 1490522
+  },
+  {
+    "date": "2022-04-13",
+    "new": 2936,
+    "active": 6529,
+    "zeroBalance": 2188,
+    "total": 2557735,
+    "totalZeroBalance": 1492522
+  },
+  {
+    "date": "2022-04-14",
+    "new": 2276,
+    "active": 5163,
+    "zeroBalance": 1770,
+    "total": 2560011,
+    "totalZeroBalance": 1494180
+  },
+  {
+    "date": "2022-04-15",
+    "new": 2312,
+    "active": 5195,
+    "zeroBalance": 1793,
+    "total": 2562323,
+    "totalZeroBalance": 1495857
+  },
+  {
+    "date": "2022-04-16",
+    "new": 2238,
+    "active": 5245,
+    "zeroBalance": 1897,
+    "total": 2564561,
+    "totalZeroBalance": 1497697
+  },
+  {
+    "date": "2022-04-17",
+    "new": 2221,
+    "active": 4938,
+    "zeroBalance": 1698,
+    "total": 2566782,
+    "totalZeroBalance": 1499301
+  },
+  {
+    "date": "2022-04-18",
+    "new": 2129,
+    "active": 5166,
+    "zeroBalance": 1821,
+    "total": 2568911,
+    "totalZeroBalance": 1501075
+  },
+  {
+    "date": "2022-04-19",
+    "new": 2286,
+    "active": 5088,
+    "zeroBalance": 1693,
+    "total": 2571197,
+    "totalZeroBalance": 1502711
+  },
+  {
+    "date": "2022-04-20",
+    "new": 1976,
+    "active": 4523,
+    "zeroBalance": 1451,
+    "total": 2573173,
+    "totalZeroBalance": 1504059
+  },
+  {
+    "date": "2022-04-21",
+    "new": 2075,
+    "active": 4609,
+    "zeroBalance": 1425,
+    "total": 2575248,
+    "totalZeroBalance": 1505389
+  },
+  {
+    "date": "2022-04-22",
+    "new": 1988,
+    "active": 4441,
+    "zeroBalance": 1460,
+    "total": 2577236,
+    "totalZeroBalance": 1506738
+  },
+  {
+    "date": "2022-04-23",
+    "new": 2143,
+    "active": 4919,
+    "zeroBalance": 1568,
+    "total": 2579379,
+    "totalZeroBalance": 1508125
+  },
+  {
+    "date": "2022-04-24",
+    "new": 2257,
+    "active": 5180,
+    "zeroBalance": 1556,
+    "total": 2581636,
+    "totalZeroBalance": 1509418
+  },
+  {
+    "date": "2022-04-25",
+    "new": 2276,
+    "active": 5437,
+    "zeroBalance": 1767,
+    "total": 2583912,
+    "totalZeroBalance": 1510938
+  },
+  {
+    "date": "2022-04-26",
+    "new": 2377,
+    "active": 5712,
+    "zeroBalance": 2115,
+    "total": 2586289,
+    "totalZeroBalance": 1512986
+  },
+  {
+    "date": "2022-04-27",
+    "new": 2116,
+    "active": 5259,
+    "zeroBalance": 1959,
+    "total": 2588405,
+    "totalZeroBalance": 1514957
+  },
+  {
+    "date": "2022-04-28",
+    "new": 2070,
+    "active": 4534,
+    "zeroBalance": 1423,
+    "total": 2590475,
+    "totalZeroBalance": 1516329
+  },
+  {
+    "date": "2022-04-29",
+    "new": 2044,
+    "active": 4861,
+    "zeroBalance": 1587,
+    "total": 2592519,
+    "totalZeroBalance": 1517807
+  },
+  {
+    "date": "2022-04-30",
+    "new": 1820,
+    "active": 4304,
+    "zeroBalance": 1372,
+    "total": 2594339,
+    "totalZeroBalance": 1519082
+  },
+  {
+    "date": "2022-05-01",
+    "new": 1435,
+    "active": 3474,
+    "zeroBalance": 1071,
+    "total": 2595774,
+    "totalZeroBalance": 1520043
+  },
+  {
+    "date": "2022-05-02",
+    "new": 1563,
+    "active": 3558,
+    "zeroBalance": 1095,
+    "total": 2597337,
+    "totalZeroBalance": 1521027
+  },
+  {
+    "date": "2022-05-03",
+    "new": 1633,
+    "active": 3714,
+    "zeroBalance": 1129,
+    "total": 2598970,
+    "totalZeroBalance": 1522027
+  },
+  {
+    "date": "2022-05-04",
+    "new": 1752,
+    "active": 4141,
+    "zeroBalance": 1353,
+    "total": 2600722,
+    "totalZeroBalance": 1523328
+  },
+  {
+    "date": "2022-05-05",
+    "new": 1723,
+    "active": 3990,
+    "zeroBalance": 1167,
+    "total": 2602445,
+    "totalZeroBalance": 1524365
+  },
+  {
+    "date": "2022-05-06",
+    "new": 1716,
+    "active": 4029,
+    "zeroBalance": 1230,
+    "total": 2604161,
+    "totalZeroBalance": 1525481
+  },
+  {
+    "date": "2022-05-07",
+    "new": 1686,
+    "active": 4133,
+    "zeroBalance": 1275,
+    "total": 2605847,
+    "totalZeroBalance": 1526681
+  },
+  {
+    "date": "2022-05-08",
+    "new": 2091,
+    "active": 5008,
+    "zeroBalance": 1682,
+    "total": 2607938,
+    "totalZeroBalance": 1528391
+  },
+  {
+    "date": "2022-05-09",
+    "new": 2346,
+    "active": 5765,
+    "zeroBalance": 1633,
+    "total": 2610284,
+    "totalZeroBalance": 1529885
+  },
+  {
+    "date": "2022-05-10",
+    "new": 2088,
+    "active": 5263,
+    "zeroBalance": 1558,
+    "total": 2612372,
+    "totalZeroBalance": 1531339
+  },
+  {
+    "date": "2022-05-11",
+    "new": 3661,
+    "active": 7373,
+    "zeroBalance": 1586,
+    "total": 2616033,
+    "totalZeroBalance": 1532593
+  },
+  {
+    "date": "2022-05-12",
+    "new": 5469,
+    "active": 10287,
+    "zeroBalance": 2019,
+    "total": 2621502,
+    "totalZeroBalance": 1534106
+  },
+  {
+    "date": "2022-05-13",
+    "new": 4779,
+    "active": 9606,
+    "zeroBalance": 2489,
+    "total": 2626281,
+    "totalZeroBalance": 1536288
+  },
+  {
+    "date": "2022-05-14",
+    "new": 4747,
+    "active": 9383,
+    "zeroBalance": 2504,
+    "total": 2631028,
+    "totalZeroBalance": 1538621
+  },
+  {
+    "date": "2022-05-15",
+    "new": 3829,
+    "active": 7542,
+    "zeroBalance": 2137,
+    "total": 2634857,
+    "totalZeroBalance": 1540737
+  },
+  {
+    "date": "2022-05-16",
+    "new": 3180,
+    "active": 6307,
+    "zeroBalance": 1681,
+    "total": 2638037,
+    "totalZeroBalance": 1542326
+  },
+  {
+    "date": "2022-05-17",
+    "new": 2546,
+    "active": 5202,
+    "zeroBalance": 1445,
+    "total": 2640583,
+    "totalZeroBalance": 1543649
+  },
+  {
+    "date": "2022-05-18",
+    "new": 2290,
+    "active": 6339,
+    "zeroBalance": 2658,
+    "total": 2642873,
+    "totalZeroBalance": 1546340
+  },
+  {
+    "date": "2022-05-19",
+    "new": 2177,
+    "active": 4875,
+    "zeroBalance": 1457,
+    "total": 2645050,
+    "totalZeroBalance": 1547658
+  },
+  {
+    "date": "2022-05-20",
+    "new": 2039,
+    "active": 4532,
+    "zeroBalance": 1327,
+    "total": 2647089,
+    "totalZeroBalance": 1548933
+  },
+  {
+    "date": "2022-05-21",
+    "new": 1990,
+    "active": 4463,
+    "zeroBalance": 1423,
+    "total": 2649079,
+    "totalZeroBalance": 1550267
+  },
+  {
+    "date": "2022-05-22",
+    "new": 1914,
+    "active": 4307,
+    "zeroBalance": 1266,
+    "total": 2650993,
+    "totalZeroBalance": 1551481
+  },
+  {
+    "date": "2022-05-23",
+    "new": 1968,
+    "active": 4385,
+    "zeroBalance": 1254,
+    "total": 2652961,
+    "totalZeroBalance": 1552648
+  },
+  {
+    "date": "2022-05-24",
+    "new": 1668,
+    "active": 3967,
+    "zeroBalance": 1223,
+    "total": 2654629,
+    "totalZeroBalance": 1553802
+  },
+  {
+    "date": "2022-05-25",
+    "new": 1556,
+    "active": 3590,
+    "zeroBalance": 1018,
+    "total": 2656185,
+    "totalZeroBalance": 1554748
+  },
+  {
+    "date": "2022-05-26",
+    "new": 1555,
+    "active": 3662,
+    "zeroBalance": 1047,
+    "total": 2657740,
+    "totalZeroBalance": 1555679
+  },
+  {
+    "date": "2022-05-27",
+    "new": 1522,
+    "active": 3820,
+    "zeroBalance": 1112,
+    "total": 2659262,
+    "totalZeroBalance": 1556708
+  },
+  {
+    "date": "2022-05-28",
+    "new": 1796,
+    "active": 4215,
+    "zeroBalance": 1336,
+    "total": 2661058,
+    "totalZeroBalance": 1558001
+  },
+  {
+    "date": "2022-05-29",
+    "new": 1603,
+    "active": 3726,
+    "zeroBalance": 1095,
+    "total": 2662661,
+    "totalZeroBalance": 1559037
+  },
+  {
+    "date": "2022-05-30",
+    "new": 1879,
+    "active": 4470,
+    "zeroBalance": 1312,
+    "total": 2664540,
+    "totalZeroBalance": 1560191
+  },
+  {
+    "date": "2022-05-31",
+    "new": 1688,
+    "active": 3938,
+    "zeroBalance": 1222,
+    "total": 2666228,
+    "totalZeroBalance": 1561325
+  },
+  {
+    "date": "2022-06-01",
+    "new": 1338,
+    "active": 3271,
+    "zeroBalance": 1006,
+    "total": 2667566,
+    "totalZeroBalance": 1562240
+  },
+  {
+    "date": "2022-06-02",
+    "new": 1108,
+    "active": 2932,
+    "zeroBalance": 946,
+    "total": 2668674,
+    "totalZeroBalance": 1563117
+  },
+  {
+    "date": "2022-06-03",
+    "new": 1125,
+    "active": 2842,
+    "zeroBalance": 796,
+    "total": 2669799,
+    "totalZeroBalance": 1563864
+  },
+  {
+    "date": "2022-06-04",
+    "new": 1068,
+    "active": 2646,
+    "zeroBalance": 784,
+    "total": 2670867,
+    "totalZeroBalance": 1564580
+  },
+  {
+    "date": "2022-06-05",
+    "new": 1109,
+    "active": 2606,
+    "zeroBalance": 719,
+    "total": 2671976,
+    "totalZeroBalance": 1565234
+  },
+  {
+    "date": "2022-06-06",
+    "new": 1175,
+    "active": 2984,
+    "zeroBalance": 855,
+    "total": 2673151,
+    "totalZeroBalance": 1566012
+  },
+  {
+    "date": "2022-06-07",
+    "new": 1135,
+    "active": 2877,
+    "zeroBalance": 806,
+    "total": 2674286,
+    "totalZeroBalance": 1566736
   }
 ]
