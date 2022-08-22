@@ -49771,12 +49771,22 @@
   },
   {
     "date": "2022-08-20",
+    "new": 40913,
+    "active": 57856,
+    "zeroBalance": 19143,
+    "total": 361460785,
+    "totalZeroBalance": 336254296,
+    "totalWithBalance": 25206489,
+    "activeAddressesRatio": 0.0022952819807629692
+  },
+  {
+    "date": "2022-08-21",
     "new": 0,
     "active": 0,
     "zeroBalance": 0,
-    "total": 361419872,
-    "totalZeroBalance": 336238052,
-    "totalWithBalance": 25181820,
+    "total": 361460785,
+    "totalZeroBalance": 336254296,
+    "totalWithBalance": 25206489,
     "activeAddressesRatio": 0
   }
 ]
