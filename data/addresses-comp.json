@@ -9183,7 +9183,7 @@
     "date": "2022-09-08",
     "new": 80,
     "active": 339,
-    "zeroBalance": 75,
+    "zeroBalance": 76,
     "total": 573715,
     "totalZeroBalance": 381384,
     "totalWithBalance": 192331,
@@ -9198,5 +9198,15 @@
     "totalZeroBalance": 381434,
     "totalWithBalance": 192360,
     "activeAddressesRatio": 0.001512788521522146
+  },
+  {
+    "date": "2022-09-10",
+    "new": 95,
+    "active": 327,
+    "zeroBalance": 73,
+    "total": 573889,
+    "totalZeroBalance": 381482,
+    "totalWithBalance": 192407,
+    "activeAddressesRatio": 0.001699522366649862
   }
 ]
