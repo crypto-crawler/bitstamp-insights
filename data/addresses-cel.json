@@ -16193,7 +16193,7 @@
     "date": "2022-09-16",
     "new": 23,
     "active": 270,
-    "zeroBalance": 80,
+    "zeroBalance": 79,
     "total": 167278,
     "totalZeroBalance": 134880,
     "totalWithBalance": 32398,
@@ -16208,5 +16208,15 @@
     "totalZeroBalance": 134897,
     "totalWithBalance": 32397,
     "activeAddressesRatio": 0.004444856005185666
+  },
+  {
+    "date": "2022-09-18",
+    "new": 18,
+    "active": 168,
+    "zeroBalance": 25,
+    "total": 167312,
+    "totalZeroBalance": 134909,
+    "totalWithBalance": 32403,
+    "activeAddressesRatio": 0.005184705119896306
   }
 ]
