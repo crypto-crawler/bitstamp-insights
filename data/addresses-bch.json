@@ -50291,12 +50291,32 @@
   },
   {
     "date": "2022-10-11",
+    "new": 34958,
+    "active": 87259,
+    "zeroBalance": 31564,
+    "total": 362639033,
+    "totalZeroBalance": 337161759,
+    "totalWithBalance": 25477274,
+    "activeAddressesRatio": 0.0034249739591449228
+  },
+  {
+    "date": "2022-10-12",
+    "new": 40058,
+    "active": 60789,
+    "zeroBalance": 23414,
+    "total": 362679091,
+    "totalZeroBalance": 337182781,
+    "totalWithBalance": 25496310,
+    "activeAddressesRatio": 0.0023842273646657104
+  },
+  {
+    "date": "2022-10-13",
     "new": 0,
     "active": 0,
     "zeroBalance": 0,
-    "total": 362604075,
-    "totalZeroBalance": 337151872,
-    "totalWithBalance": 25452203,
+    "total": 362679091,
+    "totalZeroBalance": 337182781,
+    "totalWithBalance": 25496310,
     "activeAddressesRatio": 0
   }
 ]
