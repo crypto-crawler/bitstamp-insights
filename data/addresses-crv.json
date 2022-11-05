@@ -8123,7 +8123,7 @@
     "date": "2022-11-02",
     "new": 187,
     "active": 923,
-    "zeroBalance": 211,
+    "zeroBalance": 212,
     "total": 219681,
     "totalZeroBalance": 145874,
     "totalWithBalance": 73807,
@@ -8133,10 +8133,20 @@
     "date": "2022-11-03",
     "new": 124,
     "active": 903,
-    "zeroBalance": 159,
+    "zeroBalance": 160,
     "total": 219805,
     "totalZeroBalance": 145918,
     "totalWithBalance": 73887,
     "activeAddressesRatio": 0.012221365057452596
+  },
+  {
+    "date": "2022-11-04",
+    "new": 158,
+    "active": 1062,
+    "zeroBalance": 169,
+    "total": 219963,
+    "totalZeroBalance": 146005,
+    "totalWithBalance": 73958,
+    "activeAddressesRatio": 0.014359501338597582
   }
 ]

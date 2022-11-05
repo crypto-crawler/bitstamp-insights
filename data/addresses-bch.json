@@ -50521,12 +50521,22 @@
   },
   {
     "date": "2022-11-03",
+    "new": 28398,
+    "active": 50586,
+    "zeroBalance": 35086,
+    "total": 363245683,
+    "totalZeroBalance": 337652790,
+    "totalWithBalance": 25592893,
+    "activeAddressesRatio": 0.0019765643532366583
+  },
+  {
+    "date": "2022-11-04",
     "new": 0,
     "active": 0,
     "zeroBalance": 0,
-    "total": 363217285,
-    "totalZeroBalance": 337620407,
-    "totalWithBalance": 25596878,
+    "total": 363245683,
+    "totalZeroBalance": 337652790,
+    "totalWithBalance": 25592893,
     "activeAddressesRatio": 0
   }
 ]
