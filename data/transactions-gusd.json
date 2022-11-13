@@ -13682,19 +13682,19 @@
   {
     "date": "2022-11-07",
     "count": 133,
-    "totalVolume": 41572000.19,
-    "adjustedTotalVolume": 41572000.19,
-    "totalVolumeUSD": 41509642.189715,
-    "adjustedTotalVolumeUSD": 41509642.189715,
+    "totalVolume": 41572000.19000001,
+    "adjustedTotalVolume": 41572000.19000001,
+    "totalVolumeUSD": 41509642.18971501,
+    "adjustedTotalVolumeUSD": 41509642.18971501,
     "dailyPrice": 0.9984999999999999
   },
   {
     "date": "2022-11-08",
     "count": 253,
-    "totalVolume": 82652157.61000006,
-    "adjustedTotalVolume": 82652157.61000006,
-    "totalVolumeUSD": 82280222.90075505,
-    "adjustedTotalVolumeUSD": 82280222.90075505,
+    "totalVolume": 82652157.61,
+    "adjustedTotalVolume": 82652157.61,
+    "totalVolumeUSD": 82280222.90075499,
+    "adjustedTotalVolumeUSD": 82280222.90075499,
     "dailyPrice": 0.9954999999999999
   },
   {
@@ -13709,19 +13709,28 @@
   {
     "date": "2022-11-10",
     "count": 567,
-    "totalVolume": 374003978.82,
-    "adjustedTotalVolume": 374003978.82,
-    "totalVolumeUSD": 374377982.79881996,
-    "adjustedTotalVolumeUSD": 374377982.79881996,
+    "totalVolume": 374003978.8200001,
+    "adjustedTotalVolume": 374003978.8200001,
+    "totalVolumeUSD": 374377982.7988201,
+    "adjustedTotalVolumeUSD": 374377982.7988201,
     "dailyPrice": 1.001
   },
   {
     "date": "2022-11-11",
     "count": 422,
-    "totalVolume": 88922856.98999992,
-    "adjustedTotalVolume": 88922856.98999992,
-    "totalVolumeUSD": 89100702.70397992,
-    "adjustedTotalVolumeUSD": 89100702.70397992,
+    "totalVolume": 88922856.98999998,
+    "adjustedTotalVolume": 88922856.98999998,
+    "totalVolumeUSD": 89100702.70397998,
+    "adjustedTotalVolumeUSD": 89100702.70397998,
     "dailyPrice": 1.002
+  },
+  {
+    "date": "2022-11-12",
+    "count": 293,
+    "totalVolume": 103102702.78999998,
+    "adjustedTotalVolume": 103102702.78999998,
+    "totalVolumeUSD": 153880783.914075,
+    "adjustedTotalVolumeUSD": 153880783.914075,
+    "dailyPrice": 1.4925000000000002
   }
 ]
