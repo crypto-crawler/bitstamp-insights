@@ -51133,10 +51133,30 @@
     "date": "2023-01-01",
     "new": 234,
     "active": 610,
-    "zeroBalance": 126,
+    "zeroBalance": 128,
     "total": 768491,
     "totalZeroBalance": 478563,
     "totalWithBalance": 289928,
     "activeAddressesRatio": 0.002103970640986728
+  },
+  {
+    "date": "2023-01-02",
+    "new": 307,
+    "active": 741,
+    "zeroBalance": 129,
+    "total": 768798,
+    "totalZeroBalance": 478673,
+    "totalWithBalance": 290125,
+    "activeAddressesRatio": 0.0025540715208961654
+  },
+  {
+    "date": "2023-01-03",
+    "new": 297,
+    "active": 733,
+    "zeroBalance": 127,
+    "total": 769095,
+    "totalZeroBalance": 478792,
+    "totalWithBalance": 290303,
+    "activeAddressesRatio": 0.002524948071497711
   }
 ]
