@@ -8905,9 +8905,9 @@
     "active": 6152,
     "zeroBalance": 1934,
     "total": 3105267,
-    "totalZeroBalance": 1907312,
-    "totalWithBalance": 1197955,
-    "activeAddressesRatio": 0.005135418275310842
+    "totalZeroBalance": 1907313,
+    "totalWithBalance": 1197954,
+    "activeAddressesRatio": 0.005135422562135107
   },
   {
     "date": "2023-01-08",
@@ -8915,28 +8915,38 @@
     "active": 5462,
     "zeroBalance": 1648,
     "total": 3107358,
-    "totalZeroBalance": 1908881,
-    "totalWithBalance": 1198477,
-    "activeAddressesRatio": 0.004557450831346784
+    "totalZeroBalance": 1908882,
+    "totalWithBalance": 1198476,
+    "activeAddressesRatio": 0.004557454634051912
   },
   {
     "date": "2023-01-09",
     "new": 1882,
     "active": 5874,
-    "zeroBalance": 2034,
+    "zeroBalance": 2036,
     "total": 3109240,
-    "totalZeroBalance": 1910816,
-    "totalWithBalance": 1198424,
-    "activeAddressesRatio": 0.004901437220883427
+    "totalZeroBalance": 1910817,
+    "totalWithBalance": 1198423,
+    "activeAddressesRatio": 0.004901441310789262
   },
   {
     "date": "2023-01-10",
     "new": 1795,
     "active": 5255,
-    "zeroBalance": 1265,
+    "zeroBalance": 1267,
     "total": 3111035,
-    "totalZeroBalance": 1911918,
-    "totalWithBalance": 1199117,
-    "activeAddressesRatio": 0.004382391376321076
+    "totalZeroBalance": 1911919,
+    "totalWithBalance": 1199116,
+    "activeAddressesRatio": 0.004382395031006175
+  },
+  {
+    "date": "2023-01-11",
+    "new": 1712,
+    "active": 4630,
+    "zeroBalance": 990,
+    "total": 3112747,
+    "totalZeroBalance": 1912818,
+    "totalWithBalance": 1199929,
+    "activeAddressesRatio": 0.003858561631563201
   }
 ]
