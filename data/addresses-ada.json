@@ -20043,17 +20043,17 @@
     "date": "2023-03-20",
     "new": 21187,
     "active": 56057,
-    "zeroBalance": 22966,
+    "zeroBalance": 22945,
     "total": 41578748,
-    "totalZeroBalance": 37173451,
-    "totalWithBalance": 4405297,
-    "activeAddressesRatio": 0.01272490821844702
+    "totalZeroBalance": 37173450,
+    "totalWithBalance": 4405298,
+    "activeAddressesRatio": 0.012724905329900497
   },
   {
     "date": "2023-03-21",
     "new": 21553,
     "active": 62723,
-    "zeroBalance": 21284,
+    "zeroBalance": 21304,
     "total": 41600301,
     "totalZeroBalance": 37193976,
     "totalWithBalance": 4406325,
@@ -20063,7 +20063,7 @@
     "date": "2023-03-22",
     "new": 24900,
     "active": 70714,
-    "zeroBalance": 25055,
+    "zeroBalance": 25032,
     "total": 41625201,
     "totalZeroBalance": 37218751,
     "totalWithBalance": 4406450,
@@ -20071,12 +20071,42 @@
   },
   {
     "date": "2023-03-23",
-    "new": 18589,
-    "active": 52691,
-    "zeroBalance": 17796,
-    "total": 41643790,
-    "totalZeroBalance": 37236356,
-    "totalWithBalance": 4407434,
-    "activeAddressesRatio": 0.01195502870831418
+    "new": 18673,
+    "active": 52849,
+    "zeroBalance": 17858,
+    "total": 41643874,
+    "totalZeroBalance": 37236396,
+    "totalWithBalance": 4407478,
+    "activeAddressesRatio": 0.011990757526186177
+  },
+  {
+    "date": "2023-03-24",
+    "new": 15163,
+    "active": 44285,
+    "zeroBalance": 14615,
+    "total": 41659037,
+    "totalZeroBalance": 37250316,
+    "totalWithBalance": 4408721,
+    "activeAddressesRatio": 0.010044863351525306
+  },
+  {
+    "date": "2023-03-25",
+    "new": 14114,
+    "active": 39607,
+    "zeroBalance": 13163,
+    "total": 41673151,
+    "totalZeroBalance": 37263250,
+    "totalWithBalance": 4409901,
+    "activeAddressesRatio": 0.008981380761155408
+  },
+  {
+    "date": "2023-03-26",
+    "new": 16417,
+    "active": 45827,
+    "zeroBalance": 15073,
+    "total": 41689568,
+    "totalZeroBalance": 37277665,
+    "totalWithBalance": 4411903,
+    "activeAddressesRatio": 0.01038712773150271
   }
 ]
