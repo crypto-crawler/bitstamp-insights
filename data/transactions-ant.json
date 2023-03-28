@@ -19253,10 +19253,10 @@
   {
     "date": "2023-03-24",
     "count": 14,
-    "totalVolume": 4302.6257209,
-    "adjustedTotalVolume": 4302.6257209,
-    "totalVolumeUSD": 10367.17667450855,
-    "adjustedTotalVolumeUSD": 10367.17667450855,
+    "totalVolume": 4302.6257209000005,
+    "adjustedTotalVolume": 4302.6257209000005,
+    "totalVolumeUSD": 10367.176674508552,
+    "adjustedTotalVolumeUSD": 10367.176674508552,
     "dailyPrice": 2.4095
   },
   {
@@ -19276,5 +19276,14 @@
     "totalVolumeUSD": 8805.68821006574,
     "adjustedTotalVolumeUSD": 8805.68821006574,
     "dailyPrice": 2.385
+  },
+  {
+    "date": "2023-03-27",
+    "count": 10,
+    "totalVolume": 2879.6998431800002,
+    "adjustedTotalVolume": 2879.6998431800002,
+    "totalVolumeUSD": 6525.399844645881,
+    "adjustedTotalVolumeUSD": 6525.399844645881,
+    "dailyPrice": 2.266
   }
 ]
