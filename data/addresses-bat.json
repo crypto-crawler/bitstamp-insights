@@ -21313,10 +21313,20 @@
     "date": "2023-03-30",
     "new": 112,
     "active": 402,
-    "zeroBalance": 100,
+    "zeroBalance": 99,
     "total": 1361579,
     "totalZeroBalance": 918099,
     "totalWithBalance": 443480,
     "activeAddressesRatio": 0.0009064670334626139
+  },
+  {
+    "date": "2023-03-31",
+    "new": 182,
+    "active": 462,
+    "zeroBalance": 101,
+    "total": 1361761,
+    "totalZeroBalance": 918180,
+    "totalWithBalance": 443581,
+    "activeAddressesRatio": 0.0010415234196234735
   }
 ]
