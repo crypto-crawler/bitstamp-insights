@@ -9833,7 +9833,7 @@
     "date": "2023-04-10",
     "new": 1491,
     "active": 3778,
-    "zeroBalance": 872,
+    "zeroBalance": 874,
     "total": 3292863,
     "totalZeroBalance": 2090826,
     "totalWithBalance": 1202037,
@@ -9843,10 +9843,20 @@
     "date": "2023-04-11",
     "new": 1581,
     "active": 4196,
-    "zeroBalance": 1036,
+    "zeroBalance": 1037,
     "total": 3294444,
     "totalZeroBalance": 2091747,
     "totalWithBalance": 1202697,
     "activeAddressesRatio": 0.0034888255312851032
+  },
+  {
+    "date": "2023-04-12",
+    "new": 1468,
+    "active": 3907,
+    "zeroBalance": 950,
+    "total": 3295912,
+    "totalZeroBalance": 2092552,
+    "totalWithBalance": 1203360,
+    "activeAddressesRatio": 0.003246742454460843
   }
 ]
