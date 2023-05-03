@@ -15221,10 +15221,10 @@
   {
     "date": "2023-04-27",
     "count": 91,
-    "totalVolume": 52692079.39,
-    "adjustedTotalVolume": 52692079.39,
-    "totalVolumeUSD": 55142261.081635,
-    "adjustedTotalVolumeUSD": 55142261.081635,
+    "totalVolume": 52692079.39000001,
+    "adjustedTotalVolume": 52692079.39000001,
+    "totalVolumeUSD": 55142261.081635006,
+    "adjustedTotalVolumeUSD": 55142261.081635006,
     "dailyPrice": 1.0465
   },
   {
@@ -15239,28 +15239,37 @@
   {
     "date": "2023-04-29",
     "count": 40,
-    "totalVolume": 211169.10000000006,
-    "adjustedTotalVolume": 211169.10000000006,
-    "totalVolumeUSD": 215075.72835000005,
-    "adjustedTotalVolumeUSD": 215075.72835000005,
+    "totalVolume": 211169.1000000001,
+    "adjustedTotalVolume": 211169.1000000001,
+    "totalVolumeUSD": 215075.72835000008,
+    "adjustedTotalVolumeUSD": 215075.72835000008,
     "dailyPrice": 1.0185
   },
   {
     "date": "2023-04-30",
     "count": 21,
-    "totalVolume": 56937.049999999996,
-    "adjustedTotalVolume": 56937.049999999996,
-    "totalVolumeUSD": 58275.07067499999,
-    "adjustedTotalVolumeUSD": 58275.07067499999,
+    "totalVolume": 56937.05,
+    "adjustedTotalVolume": 56937.05,
+    "totalVolumeUSD": 58275.070674999995,
+    "adjustedTotalVolumeUSD": 58275.070674999995,
     "dailyPrice": 1.0234999999999999
   },
   {
     "date": "2023-05-01",
     "count": 105,
-    "totalVolume": 53375161.69999999,
-    "adjustedTotalVolume": 53375161.69999999,
-    "totalVolumeUSD": 53215036.21489999,
-    "adjustedTotalVolumeUSD": 53215036.21489999,
+    "totalVolume": 53375161.7,
+    "adjustedTotalVolume": 53375161.7,
+    "totalVolumeUSD": 53215036.2149,
+    "adjustedTotalVolumeUSD": 53215036.2149,
     "dailyPrice": 0.997
+  },
+  {
+    "date": "2023-05-02",
+    "count": 128,
+    "totalVolume": 75873732.67000006,
+    "adjustedTotalVolume": 75873732.67000006,
+    "totalVolumeUSD": 78453439.58078004,
+    "adjustedTotalVolumeUSD": 78453439.58078004,
+    "dailyPrice": 1.0339999999999998
   }
 ]
